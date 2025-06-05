@@ -1,0 +1,43 @@
+# Part 1 - Obtaining Player Positions
+
+Player positions grabbed from FBREF within `soccerdata` are overly broad, and would damage future analyses. It appears that the `worldfootballR` package in R is the best way to access data from **Transfermarkt**, which contains transfer-specific data that I will need soon, as well as more specific player positions.
+
+```{r}
+library(worldfootballR)
+```
+
+I'll explore several functions and see which one is mosst suitable for my purposes.
+
+```{r}
+pl_team_urls = tm_league_team_urls(country_name = "England", start_year = 2024)
+pl_team_urls
+```
+
+```{r}
+squad_stats = tm_squad_stats(pl_team_urls)
+squad_stats
+```
+
+```{r}
+# unique positions
+unique(squad_stats$player_pos)
+```
+
+Not all positions are consistent here. Looks like Second Striker, Left Midfield, Right Midfield, and Attack are outlying.
+
+```{r}
+
+for (pos in unique(squad_stats$player_pos)) {
+  print(pos)
+  print(nrow(squad_stats[squad_stats$player_pos == pos,]))
+}
+```
+
+```{r}
+squad_stats[squad_stats$player_pos == "Second Striker",]
+```
+
+```{r}
+write.csv(squad_stats, "PL2425_player_stats.csv")
+```
+

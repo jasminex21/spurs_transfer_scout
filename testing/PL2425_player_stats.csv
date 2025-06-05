@@ -1,0 +1,793 @@
+"","team_name","league","country","player_name","player_url","player_pos","player_age","nationality","in_squad","appearances","goals","minutes_played"
+"1","Manchester City","Premier League","England","Ederson","https://www.transfermarkt.com/ederson/profil/spieler/238223","Goalkeeper",31,"Brazil",48,37,0,3311
+"2","Manchester City","Premier League","England","Stefan Ortega","https://www.transfermarkt.com/stefan-ortega/profil/spieler/85941","Goalkeeper",32,"Germany",57,21,0,1819
+"3","Manchester City","Premier League","England","Scott Carson","https://www.transfermarkt.com/scott-carson/profil/spieler/14555","Goalkeeper",39,"England",26,0,0,0
+"4","Manchester City","Premier League","England","Spike Brits","https://www.transfermarkt.com/spike-brits/profil/spieler/1080903","Goalkeeper",17,"England",1,0,0,0
+"5","Manchester City","Premier League","England","Max Hudson","https://www.transfermarkt.com/max-hudson/profil/spieler/1082283","Goalkeeper",17,"Wales",1,0,0,0
+"6","Manchester City","Premier League","England","Josko Gvardiol","https://www.transfermarkt.com/josko-gvardiol/profil/spieler/475959","Left-Back",23,"Croatia",56,53,6,4513
+"7","Manchester City","Premier League","England","Rúben Dias","https://www.transfermarkt.com/ruben-dias/profil/spieler/258004","Centre-Back",28,"Portugal",43,41,0,3215
+"8","Manchester City","Premier League","England","Rico Lewis","https://www.transfermarkt.com/rico-lewis/profil/spieler/701057","Right-Back",20,"England",54,43,2,3072
+"9","Manchester City","Premier League","England","Abdukodir Khusanov","https://www.transfermarkt.com/abdukodir-khusanov/profil/spieler/763079","Centre-Back",21,"Uzbekistan",17,9,1,684
+"10","Manchester City","Premier League","England","Vitor Reis","https://www.transfermarkt.com/vitor-reis/profil/spieler/1005575","Centre-Back",19,"Brazil",14,3,0,136
+"11","Manchester City","Premier League","England","Manuel Akanji","https://www.transfermarkt.com/manuel-akanji/profil/spieler/284730","Centre-Back",29,"Switzerland",43,37,0,2884
+"12","Manchester City","Premier League","England","John Stones","https://www.transfermarkt.com/john-stones/profil/spieler/186590","Centre-Back",31,"England",25,20,3,1134
+"13","Manchester City","Premier League","England","Nathan Aké","https://www.transfermarkt.com/nathan-ake/profil/spieler/177476","Centre-Back",30,"Netherlands",28,18,0,1133
+"14","Manchester City","Premier League","England","Kyle Walker","https://www.transfermarkt.com/kyle-walker/profil/spieler/95424","Right-Back",35,"England",22,18,0,1159
+"15","Manchester City","Premier League","England","Jahmai Simpson-Pusey","https://www.transfermarkt.com/jahmai-simpson-pusey/profil/spieler/942497","Centre-Back",19,"England",15,6,0,313
+"16","Manchester City","Premier League","England","Josh Wilson-Esbrand","https://www.transfermarkt.com/josh-wilson-esbrand/profil/spieler/576121","Left-Back",22,"England",5,0,0,0
+"17","Manchester City","Premier League","England","Issa Kaboré","https://www.transfermarkt.com/issa-kabore/profil/spieler/649452","Right-Back",24,"Burkina Faso",2,0,0,0
+"18","Manchester City","Premier League","England","Max Alleyne","https://www.transfermarkt.com/max-alleyne/profil/spieler/843595","Centre-Back",19,"England",4,0,0,0
+"19","Manchester City","Premier League","England","Kaden Braithwaite","https://www.transfermarkt.com/kaden-braithwaite/profil/spieler/1078156","Centre-Back",17,"England",1,1,0,76
+"20","Manchester City","Premier League","England","Rodri","https://www.transfermarkt.com/rodri/profil/spieler/357565","Defensive Midfield",28,"Spain",6,4,0,163
+"21","Manchester City","Premier League","England","Nico González","https://www.transfermarkt.com/nico-gonzalez/profil/spieler/466805","Central Midfield",23,"Spain",21,16,2,891
+"22","Manchester City","Premier League","England","Bernardo Silva","https://www.transfermarkt.com/bernardo-silva/profil/spieler/241641","Attacking Midfield",30,"Portugal",57,49,5,3902
+"23","Manchester City","Premier League","England","Matheus Nunes","https://www.transfermarkt.com/matheus-nunes/profil/spieler/601883","Central Midfield",26,"Portugal",54,39,4,2680
+"24","Manchester City","Premier League","England","Mateo Kovacic","https://www.transfermarkt.com/mateo-kovacic/profil/spieler/51471","Central Midfield",31,"Croatia",48,42,7,2834
+"25","Manchester City","Premier League","England","Kevin De Bruyne","https://www.transfermarkt.com/kevin-de-bruyne/profil/spieler/88755","Attacking Midfield",33,"Belgium",48,40,6,2391
+"26","Manchester City","Premier League","England","James McAtee","https://www.transfermarkt.com/james-mcatee/profil/spieler/583199","Attacking Midfield",22,"England",52,27,7,936
+"27","Manchester City","Premier League","England","Claudio Echeverri","https://www.transfermarkt.com/claudio-echeverri/profil/spieler/994536","Attacking Midfield",19,"Argentina",2,2,0,19
+"28","Manchester City","Premier League","England","Nico O'Reilly","https://www.transfermarkt.com/nico-oreilly/profil/spieler/743413","Attacking Midfield",20,"England",46,19,5,1239
+"29","Manchester City","Premier League","England","Kalvin Phillips","https://www.transfermarkt.com/kalvin-phillips/profil/spieler/351749","Defensive Midfield",29,"England",1,0,0,0
+"30","Manchester City","Premier League","England","İlkay Gündoğan","https://www.transfermarkt.com/ilkay-gundogan/profil/spieler/53622","Central Midfield",34,"Germany",55,50,3,3171
+"31","Manchester City","Premier League","England","Jacob Wright","https://www.transfermarkt.com/jacob-wright/profil/spieler/983702","Defensive Midfield",19,"England",12,2,0,44
+"32","Manchester City","Premier League","England","Erling Haaland","https://www.transfermarkt.com/erling-haaland/profil/spieler/418560","Centre-Forward",24,"Norway",48,44,31,3786
+"33","Manchester City","Premier League","England","Phil Foden","https://www.transfermarkt.com/phil-foden/profil/spieler/406635","Right Winger",25,"England",51,45,10,2845
+"34","Manchester City","Premier League","England","Omar Marmoush","https://www.transfermarkt.com/omar-marmoush/profil/spieler/445939","Centre-Forward",26,"Egypt",23,22,8,1555
+"35","Manchester City","Premier League","England","Jérémy Doku","https://www.transfermarkt.com/jeremy-doku/profil/spieler/486049","Left Winger",23,"Belgium",46,38,6,1986
+"36","Manchester City","Premier League","England","Savinho","https://www.transfermarkt.com/savinho/profil/spieler/743591","Right Winger",21,"Brazil",54,45,2,2787
+"37","Manchester City","Premier League","England","Jack Grealish","https://www.transfermarkt.com/jack-grealish/profil/spieler/203460","Left Winger",29,"England",47,32,3,1521
+"38","Manchester City","Premier League","England","Oscar Bobb","https://www.transfermarkt.com/oscar-bobb/profil/spieler/661207","Right Winger",21,"Norway",4,4,0,104
+"39","Manchester City","Premier League","England","Divin Mubama","https://www.transfermarkt.com/divin-mubama/profil/spieler/670848","Centre-Forward",20,"England",7,2,1,117
+"40","Manchester City","Premier League","England","Farid Alfa-Ruprecht","https://www.transfermarkt.com/farid-alfa-ruprecht/profil/spieler/897402","Right Winger",19,"Germany",1,0,0,0
+"41","Arsenal FC","Premier League","England","David Raya","https://www.transfermarkt.com/david-raya/profil/spieler/262749","Goalkeeper",29,"Spain",56,55,0,4980
+"42","Arsenal FC","Premier League","England","Aaron Ramsdale","https://www.transfermarkt.com/aaron-ramsdale/profil/spieler/427568","Goalkeeper",27,"England",2,0,0,0
+"43","Arsenal FC","Premier League","England","Neto","https://www.transfermarkt.com/neto/profil/spieler/111819","Goalkeeper",35,"Brazil",48,1,0,90
+"44","Arsenal FC","Premier League","England","Jack Porter","https://www.transfermarkt.com/jack-porter/profil/spieler/1131973","Goalkeeper",16,"England",6,1,0,90
+"45","Arsenal FC","Premier League","England","Alexéi Rojas","https://www.transfermarkt.com/alexei-rojas/profil/spieler/940915","Goalkeeper",19,"Colombia",1,0,0,0
+"46","Arsenal FC","Premier League","England","Tommy Setford","https://www.transfermarkt.com/tommy-setford/profil/spieler/848753","Goalkeeper",19,"England",18,1,0,90
+"47","Arsenal FC","Premier League","England","William Saliba","https://www.transfermarkt.com/william-saliba/profil/spieler/495666","Centre-Back",24,"France",54,51,2,4466
+"48","Arsenal FC","Premier League","England","Gabriel Magalhães","https://www.transfermarkt.com/gabriel-magalhaes/profil/spieler/435338","Centre-Back",27,"Brazil",42,42,5,3500
+"49","Arsenal FC","Premier League","England","Jurrien Timber","https://www.transfermarkt.com/jurrien-timber/profil/spieler/420243","Right-Back",23,"Netherlands",50,48,2,3680
+"50","Arsenal FC","Premier League","England","Ben White","https://www.transfermarkt.com/ben-white/profil/spieler/335721","Right-Back",27,"England",29,26,0,1531
+"51","Arsenal FC","Premier League","England","Myles Lewis-Skelly","https://www.transfermarkt.com/myles-lewis-skelly/profil/spieler/890721","Left-Back",18,"England",51,39,1,2306
+"52","Arsenal FC","Premier League","England","Riccardo Calafiori","https://www.transfermarkt.com/riccardo-calafiori/profil/spieler/502821","Left-Back",23,"Italy",34,29,3,1497
+"53","Arsenal FC","Premier League","England","Jakub Kiwior","https://www.transfermarkt.com/jakub-kiwior/profil/spieler/425918","Centre-Back",25,"Poland",57,30,1,2155
+"54","Arsenal FC","Premier League","England","Oleksandr Zinchenko","https://www.transfermarkt.com/oleksandr-zinchenko/profil/spieler/203853","Left-Back",28,"Ukraine",46,23,1,789
+"55","Arsenal FC","Premier League","England","Takehiro Tomiyasu","https://www.transfermarkt.com/takehiro-tomiyasu/profil/spieler/331560","Right-Back",26,"Japan",1,1,0,6
+"56","Arsenal FC","Premier League","England","Kieran Tierney","https://www.transfermarkt.com/kieran-tierney/profil/spieler/300716","Left-Back",28,"Scotland",40,20,1,447
+"57","Arsenal FC","Premier League","England","Ayden Heaven","https://www.transfermarkt.com/ayden-heaven/profil/spieler/1078163","Centre-Back",18,"England",6,1,0,10
+"58","Arsenal FC","Premier League","England","Zane Monlouis","https://www.transfermarkt.com/zane-monlouis/profil/spieler/586981","Centre-Back",21,"Jamaica",2,0,0,0
+"59","Arsenal FC","Premier League","England","Maldini Kacurri","https://www.transfermarkt.com/maldini-kacurri/profil/spieler/903189","Centre-Back",19,"Albania",8,1,0,20
+"60","Arsenal FC","Premier League","England","Josh Robinson","https://www.transfermarkt.com/josh-robinson/profil/spieler/878151","Right-Back",20,"England",4,0,0,0
+"61","Arsenal FC","Premier League","England","Josh Nichols","https://www.transfermarkt.com/josh-nichols/profil/spieler/964554","Right-Back",18,"England",5,1,0,90
+"62","Arsenal FC","Premier League","England","Brayden Clarke","https://www.transfermarkt.com/brayden-clarke/profil/spieler/1005844","Centre-Back",17,"Wales",1,0,0,0
+"63","Arsenal FC","Premier League","England","Declan Rice","https://www.transfermarkt.com/declan-rice/profil/spieler/357662","Central Midfield",26,"England",54,52,9,4128
+"64","Arsenal FC","Premier League","England","Martin Ødegaard","https://www.transfermarkt.com/martin-odegaard/profil/spieler/316264","Attacking Midfield",26,"Norway",45,45,6,3447
+"65","Arsenal FC","Premier League","England","Mikel Merino","https://www.transfermarkt.com/mikel-merino/profil/spieler/338424","Central Midfield",28,"Spain",46,44,9,2635
+"66","Arsenal FC","Premier League","England","Thomas Partey","https://www.transfermarkt.com/thomas-partey/profil/spieler/230784","Defensive Midfield",31,"Ghana",56,52,4,3946
+"67","Arsenal FC","Premier League","England","Jorginho","https://www.transfermarkt.com/jorginho/profil/spieler/102017","Defensive Midfield",33,"Italy",52,27,1,1454
+"68","Arsenal FC","Premier League","England","Salah-Eddine Oulad M'Hand","https://www.transfermarkt.com/salah-eddine-oulad-mhand/profil/spieler/559330","Central Midfield",21,"Netherlands",3,0,0,0
+"69","Arsenal FC","Premier League","England","Jack Henry-Francis","https://www.transfermarkt.com/jack-henry-francis/profil/spieler/796024","Defensive Midfield",21,"Ireland",9,0,0,0
+"70","Arsenal FC","Premier League","England","Michal Rosiak","https://www.transfermarkt.com/michal-rosiak/profil/spieler/742943","Defensive Midfield",19,"Poland",1,0,0,0
+"71","Arsenal FC","Premier League","England","Jimi Gower","https://www.transfermarkt.com/jimi-gower/profil/spieler/890718","Central Midfield",20,"England",7,0,0,0
+"72","Arsenal FC","Premier League","England","Bukayo Saka","https://www.transfermarkt.com/bukayo-saka/profil/spieler/433177","Right Winger",23,"England",37,37,12,2619
+"73","Arsenal FC","Premier League","England","Kai Havertz","https://www.transfermarkt.com/kai-havertz/profil/spieler/309400","Centre-Forward",25,"Germany",38,36,15,2809
+"74","Arsenal FC","Premier League","England","Gabriel Martinelli","https://www.transfermarkt.com/gabriel-martinelli/profil/spieler/655488","Left Winger",23,"Brazil",54,51,10,3564
+"75","Arsenal FC","Premier League","England","Ethan Nwaneri","https://www.transfermarkt.com/ethan-nwaneri/profil/spieler/890719","Right Winger",18,"England",54,37,9,1378
+"76","Arsenal FC","Premier League","England","Gabriel Jesus","https://www.transfermarkt.com/gabriel-jesus/profil/spieler/363205","Centre-Forward",28,"Brazil",29,27,7,1204
+"77","Arsenal FC","Premier League","England","Leandro Trossard","https://www.transfermarkt.com/leandro-trossard/profil/spieler/144028","Left Winger",30,"Belgium",57,56,10,3455
+"78","Arsenal FC","Premier League","England","Eddie Nketiah","https://www.transfermarkt.com/eddie-nketiah/profil/spieler/340324","Centre-Forward",26,"England",2,0,0,0
+"79","Arsenal FC","Premier League","England","Reiss Nelson","https://www.transfermarkt.com/reiss-nelson/profil/spieler/340325","Right Winger",25,"England",2,1,0,2
+"80","Arsenal FC","Premier League","England","Raheem Sterling","https://www.transfermarkt.com/raheem-sterling/profil/spieler/134425","Right Winger",30,"England",48,28,1,1143
+"81","Arsenal FC","Premier League","England","Nathan Butler-Oyedeji","https://www.transfermarkt.com/nathan-butler-oyedeji/profil/spieler/638964","Centre-Forward",22,"England",27,2,0,7
+"82","Arsenal FC","Premier League","England","Ismeal Kabia","https://www.transfermarkt.com/ismeal-kabia/profil/spieler/964561","Right Winger",19,"Netherlands",14,1,0,9
+"83","Chelsea FC","Premier League","England","Robert Sánchez","https://www.transfermarkt.com/robert-sanchez/profil/spieler/403151","Goalkeeper",27,"Spain",53,34,0,3060
+"84","Chelsea FC","Premier League","England","Filip Jørgensen","https://www.transfermarkt.com/filip-jorgensen/profil/spieler/585323","Goalkeeper",23,"Denmark",56,23,0,2070
+"85","Chelsea FC","Premier League","England","Mike Penders","https://www.transfermarkt.com/mike-penders/profil/spieler/834397","Goalkeeper",19,"Belgium",0,0,0,0
+"86","Chelsea FC","Premier League","England","Lucas Bergström","https://www.transfermarkt.com/lucas-bergstrom/profil/spieler/490606","Goalkeeper",22,"Finland",12,0,0,0
+"87","Chelsea FC","Premier League","England","Marcus Bettinelli","https://www.transfermarkt.com/marcus-bettinelli/profil/spieler/116648","Goalkeeper",33,"England",9,0,0,0
+"88","Chelsea FC","Premier League","England","Max Merrick","https://www.transfermarkt.com/max-merrick/profil/spieler/827435","Goalkeeper",19,"England",2,0,0,0
+"89","Chelsea FC","Premier League","England","Ted Curd","https://www.transfermarkt.com/ted-curd/profil/spieler/857792","Goalkeeper",19,"England",1,0,0,0
+"90","Chelsea FC","Premier League","England","Levi Colwill","https://www.transfermarkt.com/levi-colwill/profil/spieler/614258","Centre-Back",22,"England",51,38,2,3269
+"91","Chelsea FC","Premier League","England","Marc Cucurella","https://www.transfermarkt.com/marc-cucurella/profil/spieler/284857","Left-Back",26,"Spain",52,48,7,3776
+"92","Chelsea FC","Premier League","England","Malo Gusto","https://www.transfermarkt.com/malo-gusto/profil/spieler/620322","Right-Back",22,"France",44,41,0,2318
+"93","Chelsea FC","Premier League","England","Reece James","https://www.transfermarkt.com/reece-james/profil/spieler/472423","Right-Back",25,"England",31,27,2,1518
+"94","Chelsea FC","Premier League","England","Trevoh Chalobah","https://www.transfermarkt.com/trevoh-chalobah/profil/spieler/346314","Centre-Back",25,"England",23,19,0,1336
+"95","Chelsea FC","Premier League","England","Wesley Fofana","https://www.transfermarkt.com/wesley-fofana/profil/spieler/475411","Centre-Back",24,"France",15,14,0,1176
+"96","Chelsea FC","Premier League","England","Axel Disasi","https://www.transfermarkt.com/axel-disasi/profil/spieler/386047","Right-Back",27,"France",26,17,2,1284
+"97","Chelsea FC","Premier League","England","Benoît Badiashile","https://www.transfermarkt.com/benoit-badiashile/profil/spieler/463603","Centre-Back",24,"France",37,20,0,1609
+"98","Chelsea FC","Premier League","England","Tosin Adarabioyo","https://www.transfermarkt.com/tosin-adarabioyo/profil/spieler/258878","Centre-Back",27,"England",56,37,4,2710
+"99","Chelsea FC","Premier League","England","Renato Veiga","https://www.transfermarkt.com/renato-veiga/profil/spieler/805714","Centre-Back",21,"Portugal",31,18,2,1166
+"100","Chelsea FC","Premier League","England","Ben Chilwell","https://www.transfermarkt.com/ben-chilwell/profil/spieler/316125","Left-Back",28,"England",2,1,0,45
+"101","Chelsea FC","Premier League","England","Aarón Anselmino","https://www.transfermarkt.com/aaron-anselmino/profil/spieler/1145504","Centre-Back",20,"Argentina",3,0,0,0
+"102","Chelsea FC","Premier League","England","Josh Acheampong","https://www.transfermarkt.com/josh-acheampong/profil/spieler/1004708","Right-Back",19,"England",36,12,0,781
+"103","Chelsea FC","Premier League","England","Ishé Samuels-Smith","https://www.transfermarkt.com/ishe-samuels-smith/profil/spieler/922698","Left-Back",19,"England",3,0,0,0
+"104","Chelsea FC","Premier League","England","Harrison Murray-Campbell","https://www.transfermarkt.com/harrison-murray-campbell/profil/spieler/985691","Centre-Back",18,"England",3,1,0,31
+"105","Chelsea FC","Premier League","England","Genesis Antwi","https://www.transfermarkt.com/genesis-antwi/profil/spieler/1045121","Right-Back",18,"Sweden",4,2,0,21
+"106","Chelsea FC","Premier League","England","Richard Olise","https://www.transfermarkt.com/richard-olise/profil/spieler/868920","Right-Back",20,"England",1,0,0,0
+"107","Chelsea FC","Premier League","England","Kaiden Wilson","https://www.transfermarkt.com/kaiden-wilson/profil/spieler/936841","Centre-Back",19,"England",1,0,0,0
+"108","Chelsea FC","Premier League","England","Cole Palmer","https://www.transfermarkt.com/cole-palmer/profil/spieler/568177","Attacking Midfield",23,"England",49,46,15,3691
+"109","Chelsea FC","Premier League","England","Moisés Caicedo","https://www.transfermarkt.com/moises-caicedo/profil/spieler/687626","Defensive Midfield",23,"Ecuador",48,45,2,3815
+"110","Chelsea FC","Premier League","England","Enzo Fernández","https://www.transfermarkt.com/enzo-fernandez/profil/spieler/648195","Central Midfield",24,"Argentina",51,46,8,3507
+"111","Chelsea FC","Premier League","England","Roméo Lavia","https://www.transfermarkt.com/romeo-lavia/profil/spieler/628451","Defensive Midfield",21,"Belgium",22,18,0,853
+"112","Chelsea FC","Premier League","England","Kiernan Dewsbury-Hall","https://www.transfermarkt.com/kiernan-dewsbury-hall/profil/spieler/475188","Central Midfield",26,"England",44,31,4,1667
+"113","Chelsea FC","Premier League","England","Carney Chukwuemeka","https://www.transfermarkt.com/carney-chukwuemeka/profil/spieler/659459","Central Midfield",21,"England",6,5,0,130
+"114","Chelsea FC","Premier League","England","Cesare Casadei","https://www.transfermarkt.com/cesare-casadei/profil/spieler/622380","Central Midfield",22,"Italy",11,6,0,425
+"115","Chelsea FC","Premier League","England","Mathis Amougou","https://www.transfermarkt.com/mathis-amougou/profil/spieler/1010854","Central Midfield",19,"France",11,2,0,22
+"116","Chelsea FC","Premier League","England","Harvey Vale","https://www.transfermarkt.com/harvey-vale/profil/spieler/581675","Attacking Midfield",21,"England",2,2,0,68
+"117","Chelsea FC","Premier League","England","Sam Rak-Sakyi","https://www.transfermarkt.com/sam-rak-sakyi/profil/spieler/906214","Defensive Midfield",20,"England",8,4,0,106
+"118","Chelsea FC","Premier League","England","Kiano Dyer","https://www.transfermarkt.com/kiano-dyer/profil/spieler/954125","Central Midfield",18,"England",4,1,0,4
+"119","Chelsea FC","Premier League","England","Reggie Walsh","https://www.transfermarkt.com/reggie-walsh/profil/spieler/1108464","Central Midfield",16,"England",4,2,0,92
+"120","Chelsea FC","Premier League","England","Landon Emenalo","https://www.transfermarkt.com/landon-emenalo/profil/spieler/1108471","Defensive Midfield",17,"England",1,0,0,0
+"121","Chelsea FC","Premier League","England","Pedro Neto","https://www.transfermarkt.com/pedro-neto/profil/spieler/487465","Right Winger",25,"Portugal",51,45,6,2852
+"122","Chelsea FC","Premier League","England","Nicolas Jackson","https://www.transfermarkt.com/nicolas-jackson/profil/spieler/776890","Centre-Forward",23,"Senegal",39,34,13,2437
+"123","Chelsea FC","Premier League","England","Liam Delap","https://www.transfermarkt.com/liam-delap/profil/spieler/610849","Centre-Forward",22,"England",0,0,0,0
+"124","Chelsea FC","Premier League","England","Noni Madueke","https://www.transfermarkt.com/noni-madueke/profil/spieler/503987","Right Winger",23,"England",47,41,11,2449
+"125","Chelsea FC","Premier League","England","Christopher Nkunku","https://www.transfermarkt.com/christopher-nkunku/profil/spieler/344381","Centre-Forward",27,"France",49,42,14,2039
+"126","Chelsea FC","Premier League","England","Jadon Sancho","https://www.transfermarkt.com/jadon-sancho/profil/spieler/401173","Left Winger",25,"England",44,41,5,2419
+"127","Chelsea FC","Premier League","England","João Félix","https://www.transfermarkt.com/joao-felix/profil/spieler/462250","Second Striker",25,"Portugal",28,20,7,948
+"128","Chelsea FC","Premier League","England","Mykhaylo Mudryk","https://www.transfermarkt.com/mykhaylo-mudryk/profil/spieler/537860","Left Winger",24,"Ukraine",20,15,3,849
+"129","Chelsea FC","Premier League","England","Tyrique George","https://www.transfermarkt.com/tyrique-george/profil/spieler/936874","Left Winger",19,"England",36,24,2,1105
+"130","Chelsea FC","Premier League","England","Deivid Washington","https://www.transfermarkt.com/deivid-washington/profil/spieler/1082850","Centre-Forward",20,"Brazil",1,0,0,0
+"131","Chelsea FC","Premier League","England","Marc Guiu","https://www.transfermarkt.com/marc-guiu/profil/spieler/938158","Centre-Forward",19,"Spain",25,14,6,580
+"132","Chelsea FC","Premier League","England","David Datro Fofana","https://www.transfermarkt.com/david-datro-fofana/profil/spieler/787232","Centre-Forward",22,"Cote d'Ivoire",0,0,0,0
+"133","Chelsea FC","Premier League","England","Shumaira Mheuka","https://www.transfermarkt.com/shumaira-mheuka/profil/spieler/982097","Centre-Forward",17,"England",12,5,0,118
+"134","Chelsea FC","Premier League","England","Ato Ampah","https://www.transfermarkt.com/ato-ampah/profil/spieler/1016556","Right Winger",19,"England",1,1,0,45
+"135","Liverpool FC","Premier League","England","Alisson","https://www.transfermarkt.com/alisson/profil/spieler/105470","Goalkeeper",32,"Brazil",36,35,0,3169
+"136","Liverpool FC","Premier League","England","Caoimhín Kelleher","https://www.transfermarkt.com/caoimhin-kelleher/profil/spieler/340918","Goalkeeper",26,"Ireland",55,20,0,1800
+"137","Liverpool FC","Premier League","England","Vitezslav Jaros","https://www.transfermarkt.com/vitezslav-jaros/profil/spieler/486604","Goalkeeper",23,"Czech Republic",28,2,0,101
+"138","Liverpool FC","Premier League","England","Harvey Davies","https://www.transfermarkt.com/harvey-davies/profil/spieler/706815","Goalkeeper",21,"England",7,0,0,0
+"139","Liverpool FC","Premier League","England","Trent Alexander-Arnold","https://www.transfermarkt.com/trent-alexander-arnold/profil/spieler/314353","Right-Back",26,"England",47,44,4,3089
+"140","Liverpool FC","Premier League","England","Ibrahima Konaté","https://www.transfermarkt.com/ibrahima-konate/profil/spieler/357119","Centre-Back",26,"France",44,42,2,3372
+"141","Liverpool FC","Premier League","England","Conor Bradley","https://www.transfermarkt.com/conor-bradley/profil/spieler/624258","Right-Back",21,"Northern Ireland",36,29,0,1385
+"142","Liverpool FC","Premier League","England","Virgil van Dijk","https://www.transfermarkt.com/virgil-van-dijk/profil/spieler/139208","Centre-Back",33,"Netherlands",52,49,5,4437
+"143","Liverpool FC","Premier League","England","Joe Gomez","https://www.transfermarkt.com/joe-gomez/profil/spieler/256178","Centre-Back",28,"England",29,17,0,874
+"144","Liverpool FC","Premier League","England","Jarell Quansah","https://www.transfermarkt.com/jarell-quansah/profil/spieler/632349","Centre-Back",22,"England",56,25,0,1290
+"145","Liverpool FC","Premier League","England","Konstantinos Tsimikas","https://www.transfermarkt.com/konstantinos-tsimikas/profil/spieler/338070","Left-Back",29,"Greece",50,29,0,1674
+"146","Liverpool FC","Premier League","England","Andrew Robertson","https://www.transfermarkt.com/andrew-robertson/profil/spieler/234803","Left-Back",31,"Scotland",54,45,0,3320
+"147","Liverpool FC","Premier League","England","Amara Nallo","https://www.transfermarkt.com/amara-nallo/profil/spieler/1108049","Centre-Back",18,"England",4,1,0,4
+"148","Liverpool FC","Premier League","England","James Norris","https://www.transfermarkt.com/james-norris/profil/spieler/618495","Left-Back",22,"England",4,0,0,0
+"149","Liverpool FC","Premier League","England","Isaac Mabaya","https://www.transfermarkt.com/isaac-mabaya/profil/spieler/670843","Right-Back",20,"Zimbabwe",2,1,0,47
+"150","Liverpool FC","Premier League","England","Alexis Mac Allister","https://www.transfermarkt.com/alexis-mac-allister/profil/spieler/534033","Central Midfield",26,"Argentina",50,49,7,3569
+"151","Liverpool FC","Premier League","England","Dominik Szoboszlai","https://www.transfermarkt.com/dominik-szoboszlai/profil/spieler/451276","Attacking Midfield",24,"Hungary",50,49,8,3429
+"152","Liverpool FC","Premier League","England","Ryan Gravenberch","https://www.transfermarkt.com/ryan-gravenberch/profil/spieler/478573","Defensive Midfield",23,"Netherlands",49,49,0,4207
+"153","Liverpool FC","Premier League","England","Curtis Jones","https://www.transfermarkt.com/curtis-jones/profil/spieler/433188","Central Midfield",24,"England",49,46,3,2438
+"154","Liverpool FC","Premier League","England","Harvey Elliott","https://www.transfermarkt.com/harvey-elliott/profil/spieler/565822","Attacking Midfield",22,"England",42,28,5,822
+"155","Liverpool FC","Premier League","England","Wataru Endo","https://www.transfermarkt.com/wataru-endo/profil/spieler/146310","Defensive Midfield",32,"Japan",55,32,0,865
+"156","Liverpool FC","Premier League","England","Tyler Morton","https://www.transfermarkt.com/tyler-morton/profil/spieler/618494","Defensive Midfield",22,"England",19,5,0,261
+"157","Liverpool FC","Premier League","England","Trey Nyoni","https://www.transfermarkt.com/trey-nyoni/profil/spieler/1045123","Central Midfield",17,"England",12,5,0,225
+"158","Liverpool FC","Premier League","England","James McConnell","https://www.transfermarkt.com/james-mcconnell/profil/spieler/845289","Central Midfield",20,"England",12,4,0,237
+"159","Liverpool FC","Premier League","England","Kieran Morrison","https://www.transfermarkt.com/kieran-morrison/profil/spieler/1055345","Attacking Midfield",18,"Northern Ireland",1,0,0,0
+"160","Liverpool FC","Premier League","England","Luis Díaz","https://www.transfermarkt.com/luis-diaz/profil/spieler/480692","Left Winger",28,"Colombia",54,50,17,3336
+"161","Liverpool FC","Premier League","England","Cody Gakpo","https://www.transfermarkt.com/cody-gakpo/profil/spieler/434675","Left Winger",26,"Netherlands",50,49,18,2696
+"162","Liverpool FC","Premier League","England","Mohamed Salah","https://www.transfermarkt.com/mohamed-salah/profil/spieler/148455","Right Winger",32,"Egypt",52,52,34,4501
+"163","Liverpool FC","Premier League","England","Darwin Núñez","https://www.transfermarkt.com/darwin-nunez/profil/spieler/546543","Centre-Forward",25,"Uruguay",52,47,7,2038
+"164","Liverpool FC","Premier League","England","Diogo Jota","https://www.transfermarkt.com/diogo-jota/profil/spieler/340950","Centre-Forward",28,"Portugal",40,37,9,1832
+"165","Liverpool FC","Premier League","England","Federico Chiesa","https://www.transfermarkt.com/federico-chiesa/profil/spieler/341092","Right Winger",27,"Italy",31,14,2,466
+"166","Liverpool FC","Premier League","England","Jayden Danns","https://www.transfermarkt.com/jayden-danns/profil/spieler/939290","Centre-Forward",19,"England",6,4,1,115
+"167","Liverpool FC","Premier League","England","Trent Kone-Doherty","https://www.transfermarkt.com/trent-kone-doherty/profil/spieler/944140","Left Winger",18,"Ireland",2,1,0,14
+"168","Liverpool FC","Premier League","England","Ranel Young","https://www.transfermarkt.com/ranel-young/profil/spieler/1038173","Right Winger",19,"England",2,0,0,0
+"169","Liverpool FC","Premier League","England","Rio Ngumoha","https://www.transfermarkt.com/rio-ngumoha/profil/spieler/1108466","Left Winger",16,"England",3,1,0,72
+"170","Tottenham Hotspur","Premier League","England","Guglielmo Vicario","https://www.transfermarkt.com/guglielmo-vicario/profil/spieler/286047","Goalkeeper",28,"Italy",39,34,0,3060
+"171","Tottenham Hotspur","Premier League","England","Antonín Kinský","https://www.transfermarkt.com/antonin-kinsky/profil/spieler/725912","Goalkeeper",22,"Czech Republic",22,10,0,930
+"172","Tottenham Hotspur","Premier League","England","Fraser Forster","https://www.transfermarkt.com/fraser-forster/profil/spieler/52570","Goalkeeper",37,"England",30,13,0,1170
+"173","Tottenham Hotspur","Premier League","England","Brandon Austin","https://www.transfermarkt.com/brandon-austin/profil/spieler/428016","Goalkeeper",26,"England",33,3,0,270
+"174","Tottenham Hotspur","Premier League","England","Alfie Whiteman","https://www.transfermarkt.com/alfie-whiteman/profil/spieler/282823","Goalkeeper",26,"England",13,0,0,0
+"175","Tottenham Hotspur","Premier League","England","Cristian Romero","https://www.transfermarkt.com/cristian-romero/profil/spieler/355915","Centre-Back",27,"Argentina",31,26,1,2102
+"176","Tottenham Hotspur","Premier League","England","Micky van de Ven","https://www.transfermarkt.com/micky-van-de-ven/profil/spieler/557459","Centre-Back",24,"Netherlands",31,22,0,1678
+"177","Tottenham Hotspur","Premier League","England","Destiny Udogie","https://www.transfermarkt.com/destiny-udogie/profil/spieler/556385","Left-Back",22,"Italy",44,36,0,2822
+"178","Tottenham Hotspur","Premier League","England","Pedro Porro","https://www.transfermarkt.com/pedro-porro/profil/spieler/553875","Right-Back",25,"Spain",60,51,4,4130
+"179","Tottenham Hotspur","Premier League","England","Kevin Danso","https://www.transfermarkt.com/kevin-danso/profil/spieler/263236","Centre-Back",26,"Austria",17,15,0,1130
+"180","Tottenham Hotspur","Premier League","England","Radu Drăgușin","https://www.transfermarkt.com/radu-dragusin/profil/spieler/568559","Centre-Back",23,"Romania",35,28,0,2180
+"181","Tottenham Hotspur","Premier League","England","Djed Spence","https://www.transfermarkt.com/djed-spence/profil/spieler/483348","Left-Back",24,"England",46,35,2,2419
+"182","Tottenham Hotspur","Premier League","England","Sergio Reguilón","https://www.transfermarkt.com/sergio-reguilon/profil/spieler/282429","Left-Back",28,"Spain",20,6,0,316
+"183","Tottenham Hotspur","Premier League","England","Ben Davies","https://www.transfermarkt.com/ben-davies/profil/spieler/192765","Centre-Back",32,"Wales",41,28,0,2176
+"184","Tottenham Hotspur","Premier League","England","Alfie Dorrington","https://www.transfermarkt.com/alfie-dorrington/profil/spieler/796300","Centre-Back",20,"England",10,1,0,13
+"185","Tottenham Hotspur","Premier League","England","Dante Cassanova","https://www.transfermarkt.com/dante-cassanova/profil/spieler/738269","Centre-Back",20,"Jamaica",8,0,0,0
+"186","Tottenham Hotspur","Premier League","England","Maeson King","https://www.transfermarkt.com/maeson-king/profil/spieler/1047342","Centre-Back",19,"England",2,0,0,0
+"187","Tottenham Hotspur","Premier League","England","Malachi Hardy","https://www.transfermarkt.com/malachi-hardy/profil/spieler/1108465","Centre-Back",17,"England",12,0,0,0
+"188","Tottenham Hotspur","Premier League","England","Dejan Kulusevski","https://www.transfermarkt.com/dejan-kulusevski/profil/spieler/431755","Attacking Midfield",25,"Sweden",50,50,10,3450
+"189","Tottenham Hotspur","Premier League","England","James Maddison","https://www.transfermarkt.com/james-maddison/profil/spieler/294057","Attacking Midfield",28,"England",48,45,12,2718
+"190","Tottenham Hotspur","Premier League","England","Archie Gray","https://www.transfermarkt.com/archie-gray/profil/spieler/922693","Defensive Midfield",19,"England",60,46,0,3244
+"191","Tottenham Hotspur","Premier League","England","Lucas Bergvall","https://www.transfermarkt.com/lucas-bergvall/profil/spieler/866246","Central Midfield",19,"Sweden",53,45,1,2334
+"192","Tottenham Hotspur","Premier League","England","Pape Matar Sarr","https://www.transfermarkt.com/pape-matar-sarr/profil/spieler/568693","Central Midfield",22,"Senegal",58,55,6,2925
+"193","Tottenham Hotspur","Premier League","England","Rodrigo Bentancur","https://www.transfermarkt.com/rodrigo-bentancur/profil/spieler/354362","Defensive Midfield",27,"Uruguay",46,44,2,2976
+"194","Tottenham Hotspur","Premier League","England","Yves Bissouma","https://www.transfermarkt.com/yves-bissouma/profil/spieler/410425","Defensive Midfield",28,"Mali",54,44,2,2514
+"195","Tottenham Hotspur","Premier League","England","Alfie Devine","https://www.transfermarkt.com/alfie-devine/profil/spieler/728734","Attacking Midfield",20,"England",1,0,0,0
+"196","Tottenham Hotspur","Premier League","England","Callum Olusesi","https://www.transfermarkt.com/callum-olusesi/profil/spieler/985546","Central Midfield",18,"England",24,1,0,1
+"197","Tottenham Hotspur","Premier League","England","Rio Kyerematen","https://www.transfermarkt.com/rio-kyerematen/profil/spieler/882172","Central Midfield",19,"England",1,0,0,0
+"198","Tottenham Hotspur","Premier League","England","Lucá Williams-Barnett","https://www.transfermarkt.com/luca-williams-barnett/profil/spieler/1108475","Attacking Midfield",16,"England",4,0,0,0
+"199","Tottenham Hotspur","Premier League","England","Dominic Solanke","https://www.transfermarkt.com/dominic-solanke/profil/spieler/258889","Centre-Forward",27,"England",46,45,16,3393
+"200","Tottenham Hotspur","Premier League","England","Brennan Johnson","https://www.transfermarkt.com/brennan-johnson/profil/spieler/470607","Right Winger",24,"Wales",53,51,18,3316
+"201","Tottenham Hotspur","Premier League","England","Mathys Tel","https://www.transfermarkt.com/mathys-tel/profil/spieler/801734","Centre-Forward",20,"France",23,20,3,1257
+"202","Tottenham Hotspur","Premier League","England","Heung-min Son","https://www.transfermarkt.com/heung-min-son/profil/spieler/91845","Left Winger",32,"Korea, South",46,46,11,3189
+"203","Tottenham Hotspur","Premier League","England","Richarlison","https://www.transfermarkt.com/richarlison/profil/spieler/378710","Centre-Forward",28,"Brazil",27,24,5,942
+"204","Tottenham Hotspur","Premier League","England","Wilson Odobert","https://www.transfermarkt.com/wilson-odobert/profil/spieler/743498","Right Winger",20,"France",25,21,3,1008
+"205","Tottenham Hotspur","Premier League","England","Mikey Moore","https://www.transfermarkt.com/mikey-moore/profil/spieler/1011147","Left Winger",17,"England",36,19,1,812
+"206","Tottenham Hotspur","Premier League","England","Timo Werner","https://www.transfermarkt.com/timo-werner/profil/spieler/170527","Left Winger",29,"Germany",30,27,1,946
+"207","Tottenham Hotspur","Premier League","England","Min-hyeok Yang","https://www.transfermarkt.com/min-hyeok-yang/profil/spieler/1004327","Right Winger",19,"Korea, South",3,0,0,0
+"208","Tottenham Hotspur","Premier League","England","Will Lankshear","https://www.transfermarkt.com/will-lankshear/profil/spieler/879768","Centre-Forward",20,"England",25,6,1,146
+"209","Tottenham Hotspur","Premier League","England","Dane Scarlett","https://www.transfermarkt.com/dane-scarlett/profil/spieler/670883","Centre-Forward",21,"England",10,5,1,56
+"210","Tottenham Hotspur","Premier League","England","Damola Ajayi","https://www.transfermarkt.com/damola-ajayi/profil/spieler/999745","Right Winger",19,"England",12,1,1,9
+"211","Newcastle United","Premier League","England","Nick Pope","https://www.transfermarkt.com/nick-pope/profil/spieler/192080","Goalkeeper",33,"England",37,32,0,2880
+"212","Newcastle United","Premier League","England","Odysseas Vlachodimos","https://www.transfermarkt.com/odysseas-vlachodimos/profil/spieler/124419","Goalkeeper",31,"Greece",14,1,0,45
+"213","Newcastle United","Premier League","England","Martin Dúbravka","https://www.transfermarkt.com/martin-dubravka/profil/spieler/74960","Goalkeeper",36,"Slovakia",43,16,0,1425
+"214","Newcastle United","Premier League","England","Mark Gillespie","https://www.transfermarkt.com/mark-gillespie/profil/spieler/142389","Goalkeeper",33,"England",0,0,0,0
+"215","Newcastle United","Premier League","England","John Ruddy","https://www.transfermarkt.com/john-ruddy/profil/spieler/29712","Goalkeeper",38,"England",11,0,0,0
+"216","Newcastle United","Premier League","England","Sven Botman","https://www.transfermarkt.com/sven-botman/profil/spieler/361093","Centre-Back",25,"Netherlands",12,10,0,585
+"217","Newcastle United","Premier League","England","Tino Livramento","https://www.transfermarkt.com/tino-livramento/profil/spieler/503981","Right-Back",22,"England",47,45,0,3459
+"218","Newcastle United","Premier League","England","Lewis Hall","https://www.transfermarkt.com/lewis-hall/profil/spieler/670858","Left-Back",20,"England",35,34,0,2661
+"219","Newcastle United","Premier League","England","Lloyd Kelly","https://www.transfermarkt.com/lloyd-kelly/profil/spieler/480116","Centre-Back",26,"England",30,14,0,596
+"220","Newcastle United","Premier League","England","Fabian Schär","https://www.transfermarkt.com/fabian-schar/profil/spieler/135343","Centre-Back",33,"Switzerland",42,42,6,3633
+"221","Newcastle United","Premier League","England","Dan Burn","https://www.transfermarkt.com/dan-burn/profil/spieler/134270","Centre-Back",33,"England",47,46,2,3974
+"222","Newcastle United","Premier League","England","Matt Targett","https://www.transfermarkt.com/matt-targett/profil/spieler/250478","Left-Back",29,"England",26,5,0,229
+"223","Newcastle United","Premier League","England","Kieran Trippier","https://www.transfermarkt.com/kieran-trippier/profil/spieler/95810","Right-Back",34,"England",39,31,0,1723
+"224","Newcastle United","Premier League","England","Jamaal Lascelles","https://www.transfermarkt.com/jamaal-lascelles/profil/spieler/183318","Centre-Back",31,"England",3,0,0,0
+"225","Newcastle United","Premier League","England","Jamal Lewis","https://www.transfermarkt.com/jamal-lewis/profil/spieler/346018","Left-Back",27,"Northern Ireland",0,0,0,0
+"226","Newcastle United","Premier League","England","Emil Krafth","https://www.transfermarkt.com/emil-krafth/profil/spieler/184528","Right-Back",30,"Sweden",33,18,0,677
+"227","Newcastle United","Premier League","England","Harrison Ashby","https://www.transfermarkt.com/harrison-ashby/profil/spieler/559130","Right-Back",23,"Scotland",0,0,0,0
+"228","Newcastle United","Premier League","England","Alex Murphy","https://www.transfermarkt.com/alex-murphy/profil/spieler/900601","Left-Back",20,"Ireland",7,0,0,0
+"229","Newcastle United","Premier League","England","Leo Shahar","https://www.transfermarkt.com/leo-shahar/profil/spieler/940858","Right-Back",18,"England",1,0,0,0
+"230","Newcastle United","Premier League","England","Bruno Guimarães","https://www.transfermarkt.com/bruno-guimaraes/profil/spieler/520624","Defensive Midfield",27,"Brazil",47,47,5,3858
+"231","Newcastle United","Premier League","England","Sandro Tonali","https://www.transfermarkt.com/sandro-tonali/profil/spieler/397033","Central Midfield",25,"Italy",46,45,6,3309
+"232","Newcastle United","Premier League","England","Joelinton","https://www.transfermarkt.com/joelinton/profil/spieler/333241","Central Midfield",28,"Brazil",37,37,4,2972
+"233","Newcastle United","Premier League","England","Joe Willock","https://www.transfermarkt.com/joe-willock/profil/spieler/340329","Central Midfield",25,"England",42,41,3,1524
+"234","Newcastle United","Premier League","England","Lewis Miley","https://www.transfermarkt.com/lewis-miley/profil/spieler/922769","Central Midfield",19,"England",34,19,2,542
+"235","Newcastle United","Premier League","England","Sean Longstaff","https://www.transfermarkt.com/sean-longstaff/profil/spieler/346707","Central Midfield",27,"England",47,32,0,1203
+"236","Newcastle United","Premier League","England","Isaac Hayden","https://www.transfermarkt.com/isaac-hayden/profil/spieler/206225","Defensive Midfield",30,"Jamaica",0,0,0,0
+"237","Newcastle United","Premier League","England","Joe White","https://www.transfermarkt.com/joe-white/profil/spieler/614811","Attacking Midfield",22,"England",0,0,0,0
+"238","Newcastle United","Premier League","England","Alexander Isak","https://www.transfermarkt.com/alexander-isak/profil/spieler/349066","Centre-Forward",25,"Sweden",42,42,27,3324
+"239","Newcastle United","Premier League","England","Anthony Gordon","https://www.transfermarkt.com/anthony-gordon/profil/spieler/503733","Left Winger",24,"England",42,42,9,2946
+"240","Newcastle United","Premier League","England","Harvey Barnes","https://www.transfermarkt.com/harvey-barnes/profil/spieler/398065","Left Winger",27,"England",42,40,9,2121
+"241","Newcastle United","Premier League","England","Jacob Murphy","https://www.transfermarkt.com/jacob-murphy/profil/spieler/199527","Right Winger",30,"England",45,41,9,2781
+"242","Newcastle United","Premier League","England","Miguel Almirón","https://www.transfermarkt.com/miguel-almiron/profil/spieler/272999","Right Winger",31,"Paraguay",29,14,0,412
+"243","Newcastle United","Premier League","England","Callum Wilson","https://www.transfermarkt.com/callum-wilson/profil/spieler/123682","Centre-Forward",33,"England",22,22,1,458
+"244","Newcastle United","Premier League","England","William Osula","https://www.transfermarkt.com/william-osula/profil/spieler/609556","Centre-Forward",21,"Denmark",48,19,2,413
+"245","Newcastle United","Premier League","England","Trevan Sanusi","https://www.transfermarkt.com/trevan-sanusi/profil/spieler/1011152","Left Winger",18,"England",1,1,0,21
+"246","Newcastle United","Premier League","England","Sean Neave","https://www.transfermarkt.com/sean-neave/profil/spieler/1071818","Centre-Forward",18,"England",9,0,0,0
+"247","Manchester United","Premier League","England","André Onana","https://www.transfermarkt.com/andre-onana/profil/spieler/234509","Goalkeeper",29,"Cameroon",54,50,0,4560
+"248","Manchester United","Premier League","England","Altay Bayındır","https://www.transfermarkt.com/altay-bayindir/profil/spieler/336077","Goalkeeper",27,"Türkiye",49,10,0,930
+"249","Manchester United","Premier League","England","Tom Heaton","https://www.transfermarkt.com/tom-heaton/profil/spieler/34130","Goalkeeper",39,"England",21,0,0,0
+"250","Manchester United","Premier League","England","Dermot Mee","https://www.transfermarkt.com/dermot-mee/profil/spieler/620362","Goalkeeper",22,"Northern Ireland",4,0,0,0
+"251","Manchester United","Premier League","England","Hubert Graczyk","https://www.transfermarkt.com/hubert-graczyk/profil/spieler/587018","Goalkeeper",22,"Poland",4,0,0,0
+"252","Manchester United","Premier League","England","Elyh Harrison","https://www.transfermarkt.com/elyh-harrison/profil/spieler/1013690","Goalkeeper",19,"England",8,0,0,0
+"253","Manchester United","Premier League","England","Will Murdock","https://www.transfermarkt.com/will-murdock/profil/spieler/1055382","Goalkeeper",18,"Northern Ireland",1,0,0,0
+"254","Manchester United","Premier League","England","Leny Yoro","https://www.transfermarkt.com/leny-yoro/profil/spieler/923831","Centre-Back",19,"France",34,33,1,2054
+"255","Manchester United","Premier League","England","Lisandro Martínez","https://www.transfermarkt.com/lisandro-martinez/profil/spieler/480762","Centre-Back",27,"Argentina",35,32,2,2710
+"256","Manchester United","Premier League","England","Matthijs de Ligt","https://www.transfermarkt.com/matthijs-de-ligt/profil/spieler/326031","Centre-Back",25,"Netherlands",46,42,2,3116
+"257","Manchester United","Premier League","England","Diogo Dalot","https://www.transfermarkt.com/diogo-dalot/profil/spieler/357147","Right-Back",26,"Portugal",53,53,3,4453
+"258","Manchester United","Premier League","England","Noussair Mazraoui","https://www.transfermarkt.com/noussair-mazraoui/profil/spieler/340456","Right-Back",27,"Morocco",57,57,0,4490
+"259","Manchester United","Premier League","England","Harry Maguire","https://www.transfermarkt.com/harry-maguire/profil/spieler/177907","Centre-Back",32,"England",46,40,4,2784
+"260","Manchester United","Premier League","England","Luke Shaw","https://www.transfermarkt.com/luke-shaw/profil/spieler/183288","Left-Back",29,"England",14,12,0,587
+"261","Manchester United","Premier League","England","Tyrell Malacia","https://www.transfermarkt.com/tyrell-malacia/profil/spieler/339340","Left-Back",25,"Netherlands",17,8,0,316
+"262","Manchester United","Premier League","England","Victor Lindelöf","https://www.transfermarkt.com/victor-lindelof/profil/spieler/184573","Centre-Back",30,"Sweden",39,25,0,1225
+"263","Manchester United","Premier League","England","Ayden Heaven","https://www.transfermarkt.com/ayden-heaven/profil/spieler/1078163","Centre-Back",18,"England",13,6,0,292
+"264","Manchester United","Premier League","England","Harry Amass","https://www.transfermarkt.com/harry-amass/profil/spieler/1011738","Left-Back",18,"England",23,7,0,375
+"265","Manchester United","Premier League","England","Tyler Fredricson","https://www.transfermarkt.com/tyler-fredricson/profil/spieler/911424","Centre-Back",20,"England",11,2,0,166
+"266","Manchester United","Premier League","England","Jonny Evans","https://www.transfermarkt.com/jonny-evans/profil/spieler/42412","Centre-Back",37,"Northern Ireland",25,13,1,647
+"267","Manchester United","Premier League","England","Habeeb Ogunneye","https://www.transfermarkt.com/habeeb-ogunneye/profil/spieler/864788","Right-Back",19,"England",1,0,0,0
+"268","Manchester United","Premier League","England","Jaydan Kamason","https://www.transfermarkt.com/jaydan-kamason/profil/spieler/1052892","Right-Back",18,"England",4,0,0,0
+"269","Manchester United","Premier League","England","Godwill Kukonki","https://www.transfermarkt.com/godwill-kukonki/profil/spieler/1184841","Centre-Back",17,"England",6,0,0,0
+"270","Manchester United","Premier League","England","Bruno Fernandes","https://www.transfermarkt.com/bruno-fernandes/profil/spieler/240306","Attacking Midfield",30,"Portugal",58,57,19,4932
+"271","Manchester United","Premier League","England","Kobbie Mainoo","https://www.transfermarkt.com/kobbie-mainoo/profil/spieler/820374","Central Midfield",20,"England",41,37,2,2079
+"272","Manchester United","Premier League","England","Alejandro Garnacho","https://www.transfermarkt.com/alejandro-garnacho/profil/spieler/811779","Attacking Midfield",20,"Argentina",58,58,11,3568
+"273","Manchester United","Premier League","England","Manuel Ugarte","https://www.transfermarkt.com/manuel-ugarte/profil/spieler/476701","Defensive Midfield",24,"Uruguay",52,45,2,2893
+"274","Manchester United","Premier League","England","Scott McTominay","https://www.transfermarkt.com/scott-mctominay/profil/spieler/315969","Central Midfield",28,"Scotland",3,3,0,49
+"275","Manchester United","Premier League","England","Mason Mount","https://www.transfermarkt.com/mason-mount/profil/spieler/346483","Attacking Midfield",26,"England",30,26,3,952
+"276","Manchester United","Premier League","England","Patrick Dorgu","https://www.transfermarkt.com/patrick-dorgu/profil/spieler/926952","Left Midfield",20,"Denmark",20,20,0,1522
+"277","Manchester United","Premier League","England","Casemiro","https://www.transfermarkt.com/casemiro/profil/spieler/16306","Defensive Midfield",33,"Brazil",60,42,5,2799
+"278","Manchester United","Premier League","England","Toby Collyer","https://www.transfermarkt.com/toby-collyer/profil/spieler/654253","Defensive Midfield",21,"England",29,13,0,467
+"279","Manchester United","Premier League","England","Christian Eriksen","https://www.transfermarkt.com/christian-eriksen/profil/spieler/69633","Central Midfield",33,"Denmark",56,35,5,1733
+"280","Manchester United","Premier League","England","Daniel Gore","https://www.transfermarkt.com/daniel-gore/profil/spieler/747153","Central Midfield",20,"England",1,0,0,0
+"281","Manchester United","Premier League","England","Jack Moorhouse","https://www.transfermarkt.com/jack-moorhouse/profil/spieler/953933","Central Midfield",19,"England",4,0,0,0
+"282","Manchester United","Premier League","England","Jayce Fitzgerald","https://www.transfermarkt.com/jayce-fitzgerald/profil/spieler/964690","Central Midfield",18,"England",3,0,0,0
+"283","Manchester United","Premier League","England","Jack Fletcher","https://www.transfermarkt.com/jack-fletcher/profil/spieler/1011140","Attacking Midfield",18,"England",7,0,0,0
+"284","Manchester United","Premier League","England","Sékou Koné","https://www.transfermarkt.com/sekou-kone/profil/spieler/1133978","Defensive Midfield",19,"Mali",3,0,0,0
+"285","Manchester United","Premier League","England","Marcus Rashford","https://www.transfermarkt.com/marcus-rashford/profil/spieler/258923","Left Winger",27,"England",25,24,7,1500
+"286","Manchester United","Premier League","England","Amad Diallo","https://www.transfermarkt.com/amad-diallo/profil/spieler/536835","Right Winger",22,"Cote d'Ivoire",45,43,11,2758
+"287","Manchester United","Premier League","England","Rasmus Højlund","https://www.transfermarkt.com/rasmus-hojlund/profil/spieler/610442","Centre-Forward",22,"Denmark",54,52,10,3322
+"288","Manchester United","Premier League","England","Joshua Zirkzee","https://www.transfermarkt.com/joshua-zirkzee/profil/spieler/435648","Centre-Forward",24,"Netherlands",51,49,7,2256
+"289","Manchester United","Premier League","England","Jadon Sancho","https://www.transfermarkt.com/jadon-sancho/profil/spieler/401173","Left Winger",25,"England",1,1,0,7
+"290","Manchester United","Premier League","England","Antony","https://www.transfermarkt.com/antony/profil/spieler/602105","Right Winger",25,"Brazil",30,14,1,406
+"291","Manchester United","Premier League","England","Facundo Pellistri","https://www.transfermarkt.com/facundo-pellistri/profil/spieler/676318","Left Winger",23,"Uruguay",1,1,0,31
+"292","Manchester United","Premier League","England","Chido Obi","https://www.transfermarkt.com/chido-obi/profil/spieler/1042886","Centre-Forward",17,"Denmark",12,8,0,212
+"293","Manchester United","Premier League","England","James Scanlon","https://www.transfermarkt.com/james-scanlon/profil/spieler/1051146","Left Winger",18,"Gibraltar",1,0,0,0
+"294","Manchester United","Premier League","England","Bendito Mantato","https://www.transfermarkt.com/bendito-mantato/profil/spieler/1085591","Right Winger",17,"England",2,0,0,0
+"295","Manchester United","Premier League","England","Ethan Wheatley","https://www.transfermarkt.com/ethan-wheatley/profil/spieler/888639","Centre-Forward",19,"England",9,1,0,5
+"296","Aston Villa","Premier League","England","Emiliano Martínez","https://www.transfermarkt.com/emiliano-martinez/profil/spieler/111873","Goalkeeper",32,"Argentina",53,53,0,4635
+"297","Aston Villa","Premier League","England","Joe Gauci","https://www.transfermarkt.com/joe-gauci/profil/spieler/591844","Goalkeeper",24,"Australia",19,2,0,180
+"298","Aston Villa","Premier League","England","Robin Olsen","https://www.transfermarkt.com/robin-olsen/profil/spieler/75458","Goalkeeper",35,"Sweden",45,5,0,315
+"299","Aston Villa","Premier League","England","Oliwier Zych","https://www.transfermarkt.com/oliwier-zych/profil/spieler/555074","Goalkeeper",20,"Poland",18,0,0,0
+"300","Aston Villa","Premier League","England","Sam Proctor","https://www.transfermarkt.com/sam-proctor/profil/spieler/1004709","Goalkeeper",18,"England",2,0,0,0
+"301","Aston Villa","Premier League","England","Ezri Konsa","https://www.transfermarkt.com/ezri-konsa/profil/spieler/413403","Centre-Back",27,"England",52,50,3,4314
+"302","Aston Villa","Premier League","England","Pau Torres","https://www.transfermarkt.com/pau-torres/profil/spieler/399776","Centre-Back",28,"Spain",40,34,0,2788
+"303","Aston Villa","Premier League","England","Ian Maatsen","https://www.transfermarkt.com/ian-maatsen/profil/spieler/485585","Left-Back",23,"Netherlands",56,45,2,1892
+"304","Aston Villa","Premier League","England","Matty Cash","https://www.transfermarkt.com/matty-cash/profil/spieler/425334","Right-Back",27,"Poland",43,38,1,2835
+"305","Aston Villa","Premier League","England","Axel Disasi","https://www.transfermarkt.com/axel-disasi/profil/spieler/386047","Right-Back",27,"France",15,10,0,614
+"306","Aston Villa","Premier League","England","Diego Carlos","https://www.transfermarkt.com/diego-carlos/profil/spieler/329145","Centre-Back",32,"Brazil",25,17,0,1403
+"307","Aston Villa","Premier League","England","Kosta Nedeljkovic","https://www.transfermarkt.com/kosta-nedeljkovic/profil/spieler/848682","Right-Back",19,"Serbia",27,10,0,348
+"308","Aston Villa","Premier League","England","Lucas Digne","https://www.transfermarkt.com/lucas-digne/profil/spieler/126664","Left-Back",31,"France",55,45,0,3345
+"309","Aston Villa","Premier League","England","Andrés García","https://www.transfermarkt.com/andres-garcia/profil/spieler/1063329","Right-Back",22,"Spain",20,10,0,506
+"310","Aston Villa","Premier League","England","Tyrone Mings","https://www.transfermarkt.com/tyrone-mings/profil/spieler/253677","Centre-Back",32,"England",40,21,0,1703
+"311","Aston Villa","Premier League","England","Kortney Hause","https://www.transfermarkt.com/kortney-hause/profil/spieler/233124","Centre-Back",29,"England",0,0,0,0
+"312","Aston Villa","Premier League","England","Sil Swinkels","https://www.transfermarkt.com/sil-swinkels/profil/spieler/646710","Centre-Back",21,"Netherlands",13,1,0,90
+"313","Aston Villa","Premier League","England","Travis Patterson","https://www.transfermarkt.com/travis-patterson/profil/spieler/874902","Left-Back",19,"England",3,1,0,1
+"314","Aston Villa","Premier League","England","Triston Rowe","https://www.transfermarkt.com/triston-rowe/profil/spieler/984593","Right-Back",18,"England",2,0,0,0
+"315","Aston Villa","Premier League","England","Morgan Rogers","https://www.transfermarkt.com/morgan-rogers/profil/spieler/503743","Attacking Midfield",22,"England",54,54,14,4496
+"316","Aston Villa","Premier League","England","Amadou Onana","https://www.transfermarkt.com/amadou-onana/profil/spieler/485706","Defensive Midfield",23,"Belgium",40,34,5,2042
+"317","Aston Villa","Premier League","England","Boubacar Kamara","https://www.transfermarkt.com/boubacar-kamara/profil/spieler/394327","Defensive Midfield",25,"France",43,41,1,2841
+"318","Aston Villa","Premier League","England","Youri Tielemans","https://www.transfermarkt.com/youri-tielemans/profil/spieler/249565","Central Midfield",28,"Belgium",53,53,5,4511
+"319","Aston Villa","Premier League","England","Jacob Ramsey","https://www.transfermarkt.com/jacob-ramsey/profil/spieler/503749","Left Midfield",24,"England",46,45,4,2274
+"320","Aston Villa","Premier League","England","Marco Asensio","https://www.transfermarkt.com/marco-asensio/profil/spieler/296622","Attacking Midfield",29,"Spain",21,21,8,1119
+"321","Aston Villa","Premier League","England","John McGinn","https://www.transfermarkt.com/john-mcginn/profil/spieler/193116","Central Midfield",30,"Scotland",49,49,4,3306
+"322","Aston Villa","Premier League","England","Emiliano Buendía","https://www.transfermarkt.com/emiliano-buendia/profil/spieler/321247","Attacking Midfield",28,"Argentina",33,19,1,388
+"323","Aston Villa","Premier League","England","Ross Barkley","https://www.transfermarkt.com/ross-barkley/profil/spieler/131978","Central Midfield",31,"England",34,29,4,799
+"324","Aston Villa","Premier League","England","Lamare Bogarde","https://www.transfermarkt.com/lamare-bogarde/profil/spieler/645686","Defensive Midfield",21,"Netherlands",40,16,0,869
+"325","Aston Villa","Premier League","England","Jamaldeen Jimoh-Aloba","https://www.transfermarkt.com/jamaldeen-jimoh-aloba/profil/spieler/954105","Central Midfield",18,"England",12,3,0,21
+"326","Aston Villa","Premier League","England","Aidan Borland","https://www.transfermarkt.com/aidan-borland/profil/spieler/1049905","Central Midfield",18,"Scotland",2,1,0,28
+"327","Aston Villa","Premier League","England","Bradley Burrowes","https://www.transfermarkt.com/bradley-burrowes/profil/spieler/1202361","Attacking Midfield",17,"England",1,0,0,0
+"328","Aston Villa","Premier League","England","Marcus Rashford","https://www.transfermarkt.com/marcus-rashford/profil/spieler/258923","Left Winger",27,"England",17,17,4,940
+"329","Aston Villa","Premier League","England","Ollie Watkins","https://www.transfermarkt.com/ollie-watkins/profil/spieler/324358","Centre-Forward",29,"England",54,54,17,3578
+"330","Aston Villa","Premier League","England","Jhon Durán","https://www.transfermarkt.com/jhon-duran/profil/spieler/649317","Centre-Forward",21,"Colombia",31,29,12,1046
+"331","Aston Villa","Premier League","England","Leon Bailey","https://www.transfermarkt.com/leon-bailey/profil/spieler/387626","Right Winger",27,"Jamaica",45,38,2,2072
+"332","Aston Villa","Premier League","England","Donyell Malen","https://www.transfermarkt.com/donyell-malen/profil/spieler/326029","Right Winger",26,"Netherlands",20,17,3,392
+"333","Aston Villa","Premier League","England","Jaden Philogene","https://www.transfermarkt.com/jaden-philogene/profil/spieler/665390","Left Winger",23,"England",20,15,0,534
+"334","Aston Villa","Premier League","England","Kadan Young","https://www.transfermarkt.com/kadan-young/profil/spieler/887433","Left Winger",19,"England",9,2,0,98
+"335","Aston Villa","Premier League","England","Kobei Moore","https://www.transfermarkt.com/kobei-moore/profil/spieler/867706","Centre-Forward",20,"England",1,0,0,0
+"336","Aston Villa","Premier League","England","Ben Broggio","https://www.transfermarkt.com/ben-broggio/profil/spieler/985544","Left Winger",18,"England",2,1,0,4
+"337","Brighton & Hove Albion","Premier League","England","Bart Verbruggen","https://www.transfermarkt.com/bart-verbruggen/profil/spieler/565093","Goalkeeper",22,"Netherlands",43,40,0,3660
+"338","Brighton & Hove Albion","Premier League","England","Carl Rushworth","https://www.transfermarkt.com/carl-rushworth/profil/spieler/646353","Goalkeeper",23,"England",14,0,0,0
+"339","Brighton & Hove Albion","Premier League","England","Jason Steele","https://www.transfermarkt.com/jason-steele/profil/spieler/73564","Goalkeeper",34,"England",30,5,0,450
+"340","Brighton & Hove Albion","Premier League","England","Tom McGill","https://www.transfermarkt.com/tom-mcgill/profil/spieler/406556","Goalkeeper",25,"Canada",3,0,0,0
+"341","Brighton & Hove Albion","Premier League","England","Killian Cahill","https://www.transfermarkt.com/killian-cahill/profil/spieler/745716","Goalkeeper",21,"Ireland",1,0,0,0
+"342","Brighton & Hove Albion","Premier League","England","Jan Paul van Hecke","https://www.transfermarkt.com/jan-paul-van-hecke/profil/spieler/576314","Centre-Back",24,"Netherlands",39,39,1,3449
+"343","Brighton & Hove Albion","Premier League","England","Pervis Estupiñán","https://www.transfermarkt.com/pervis-estupinan/profil/spieler/349599","Left-Back",27,"Ecuador",37,36,1,2847
+"344","Brighton & Hove Albion","Premier League","England","Ferdi Kadıoğlu","https://www.transfermarkt.com/ferdi-kadioglu/profil/spieler/369316","Left-Back",25,"Türkiye",9,8,2,440
+"345","Brighton & Hove Albion","Premier League","England","Igor","https://www.transfermarkt.com/igor/profil/spieler/380350","Centre-Back",27,"Brazil",26,16,0,1230
+"346","Brighton & Hove Albion","Premier League","England","Tariq Lamptey","https://www.transfermarkt.com/tariq-lamptey/profil/spieler/504148","Right-Back",24,"Ghana",30,20,3,1218
+"347","Brighton & Hove Albion","Premier League","England","Adam Webster","https://www.transfermarkt.com/adam-webster/profil/spieler/212847","Centre-Back",30,"England",27,20,1,1394
+"348","Brighton & Hove Albion","Premier League","England","Eiran Cashin","https://www.transfermarkt.com/eiran-cashin/profil/spieler/581330","Centre-Back",23,"Ireland",14,2,0,19
+"349","Brighton & Hove Albion","Premier League","England","Lewis Dunk","https://www.transfermarkt.com/lewis-dunk/profil/spieler/148153","Centre-Back",33,"England",30,27,0,2159
+"350","Brighton & Hove Albion","Premier League","England","Joël Veltman","https://www.transfermarkt.com/joel-veltman/profil/spieler/111195","Right-Back",33,"Netherlands",28,24,0,1889
+"351","Brighton & Hove Albion","Premier League","England","Ruairi McConville","https://www.transfermarkt.com/ruairi-mcconville/profil/spieler/701021","Centre-Back",20,"Northern Ireland",9,1,0,19
+"352","Brighton & Hove Albion","Premier League","England","Odeluga Offiah","https://www.transfermarkt.com/odeluga-offiah/profil/spieler/567597","Right-Back",22,"England",1,1,0,10
+"353","Brighton & Hove Albion","Premier League","England","Ed Turns","https://www.transfermarkt.com/ed-turns/profil/spieler/580809","Centre-Back",22,"Wales",2,0,0,0
+"354","Brighton & Hove Albion","Premier League","England","Jacob Slater","https://www.transfermarkt.com/jacob-slater/profil/spieler/854930","Left-Back",20,"Ireland",3,0,0,0
+"355","Brighton & Hove Albion","Premier League","England","Charlie Tasker","https://www.transfermarkt.com/charlie-tasker/profil/spieler/921662","Right-Back",19,"England",6,0,0,0
+"356","Brighton & Hove Albion","Premier League","England","Imari Samuels","https://www.transfermarkt.com/imari-samuels/profil/spieler/565846","Left-Back",22,"England",3,1,0,71
+"357","Brighton & Hove Albion","Premier League","England","Freddie Simmonds","https://www.transfermarkt.com/freddie-simmonds/profil/spieler/1120418","Centre-Back",17,"England",1,0,0,0
+"358","Brighton & Hove Albion","Premier League","England","Carlos Baleba","https://www.transfermarkt.com/carlos-baleba/profil/spieler/973085","Defensive Midfield",21,"Cameroon",43,40,4,3180
+"359","Brighton & Hove Albion","Premier League","England","Mats Wieffer","https://www.transfermarkt.com/mats-wieffer/profil/spieler/415381","Defensive Midfield",25,"Netherlands",31,28,1,1165
+"360","Brighton & Hove Albion","Premier League","England","Jack Hinshelwood","https://www.transfermarkt.com/jack-hinshelwood/profil/spieler/867688","Central Midfield",20,"England",31,31,5,2268
+"361","Brighton & Hove Albion","Premier League","England","Julio Enciso","https://www.transfermarkt.com/julio-enciso/profil/spieler/660867","Attacking Midfield",21,"Paraguay",23,16,1,581
+"362","Brighton & Hove Albion","Premier League","England","Yasin Ayari","https://www.transfermarkt.com/yasin-ayari/profil/spieler/667287","Central Midfield",21,"Sweden",43,39,2,2262
+"363","Brighton & Hove Albion","Premier League","England","Matt O'Riley","https://www.transfermarkt.com/matt-oriley/profil/spieler/406634","Central Midfield",24,"Denmark",28,23,2,948
+"364","Brighton & Hove Albion","Premier League","England","Billy Gilmour","https://www.transfermarkt.com/billy-gilmour/profil/spieler/423744","Defensive Midfield",23,"Scotland",2,2,0,98
+"365","Brighton & Hove Albion","Premier League","England","Diego Gómez","https://www.transfermarkt.com/diego-gomez/profil/spieler/996897","Central Midfield",22,"Paraguay",20,19,1,624
+"366","Brighton & Hove Albion","Premier League","England","Malick Yalcouyé","https://www.transfermarkt.com/malick-yalcouye/profil/spieler/1178758","Left Midfield",19,"Cote d'Ivoire",1,0,0,0
+"367","Brighton & Hove Albion","Premier League","England","Jakub Moder","https://www.transfermarkt.com/jakub-moder/profil/spieler/384461","Central Midfield",26,"Poland",16,7,0,160
+"368","Brighton & Hove Albion","Premier League","England","Valentín Barco","https://www.transfermarkt.com/valentin-barco/profil/spieler/849410","Central Midfield",20,"Argentina",1,0,0,0
+"369","Brighton & Hove Albion","Premier League","England","James Milner","https://www.transfermarkt.com/james-milner/profil/spieler/3333","Central Midfield",39,"England",4,4,0,173
+"370","Brighton & Hove Albion","Premier League","England","Jensen Weir","https://www.transfermarkt.com/jensen-weir/profil/spieler/520651","Central Midfield",23,"England",1,1,0,11
+"371","Brighton & Hove Albion","Premier League","England","Joe Knight","https://www.transfermarkt.com/joe-knight/profil/spieler/978668","Central Midfield",19,"England",3,0,0,0
+"372","Brighton & Hove Albion","Premier League","England","Harry Howell","https://www.transfermarkt.com/harry-howell/profil/spieler/1067168","Attacking Midfield",17,"England",5,1,0,6
+"373","Brighton & Hove Albion","Premier League","England","João Pedro","https://www.transfermarkt.com/joao-pedro/profil/spieler/626724","Centre-Forward",23,"Brazil",30,30,10,2136
+"374","Brighton & Hove Albion","Premier League","England","Kaoru Mitoma","https://www.transfermarkt.com/kaoru-mitoma/profil/spieler/504849","Left Winger",28,"Japan",42,41,11,2966
+"375","Brighton & Hove Albion","Premier League","England","Georginio Rutter","https://www.transfermarkt.com/georginio-rutter/profil/spieler/538977","Centre-Forward",23,"France",32,32,8,1959
+"376","Brighton & Hove Albion","Premier League","England","Yankuba Minteh","https://www.transfermarkt.com/yankuba-minteh/profil/spieler/1012534","Right Winger",20,"The Gambia",38,37,7,2276
+"377","Brighton & Hove Albion","Premier League","England","Simon Adingra","https://www.transfermarkt.com/simon-adingra/profil/spieler/658536","Left Winger",23,"Cote d'Ivoire",42,33,5,1411
+"378","Brighton & Hove Albion","Premier League","England","Evan Ferguson","https://www.transfermarkt.com/evan-ferguson/profil/spieler/648046","Centre-Forward",20,"Ireland",18,15,1,390
+"379","Brighton & Hove Albion","Premier League","England","Brajan Gruda","https://www.transfermarkt.com/brajan-gruda/profil/spieler/700106","Right Winger",21,"Germany",33,25,1,879
+"380","Brighton & Hove Albion","Premier League","England","Jeremy Sarmiento","https://www.transfermarkt.com/jeremy-sarmiento/profil/spieler/568005","Left Winger",22,"Ecuador",2,2,1,87
+"381","Brighton & Hove Albion","Premier League","England","Solly March","https://www.transfermarkt.com/solly-march/profil/spieler/209212","Right Winger",30,"England",15,10,1,213
+"382","Brighton & Hove Albion","Premier League","England","Danny Welbeck","https://www.transfermarkt.com/danny-welbeck/profil/spieler/67063","Centre-Forward",34,"England",36,36,11,2390
+"383","Brighton & Hove Albion","Premier League","England","Amario Cozier-Duberry","https://www.transfermarkt.com/amario-cozier-duberry/profil/spieler/878150","Right Winger",20,"England",1,0,0,0
+"384","Brighton & Hove Albion","Premier League","England","Mark O'Mahony","https://www.transfermarkt.com/mark-omahony/profil/spieler/943549","Centre-Forward",20,"Ireland",2,1,1,81
+"385","Brighton & Hove Albion","Premier League","England","Cameron Peupion","https://www.transfermarkt.com/cameron-peupion/profil/spieler/703626","Left Winger",22,"Australia",1,1,0,18
+"386","Nottingham Forest","Premier League","England","Matz Sels","https://www.transfermarkt.com/matz-sels/profil/spieler/127202","Goalkeeper",33,"Belgium",43,42,0,3811
+"387","Nottingham Forest","Premier League","England","Carlos Miguel","https://www.transfermarkt.com/carlos-miguel/profil/spieler/641458","Goalkeeper",26,"Brazil",38,3,0,239
+"388","Nottingham Forest","Premier League","England","Matt Turner","https://www.transfermarkt.com/matt-turner/profil/spieler/425306","Goalkeeper",30,"United States",1,0,0,0
+"389","Nottingham Forest","Premier League","England","Wayne Hennessey","https://www.transfermarkt.com/wayne-hennessey/profil/spieler/45494","Goalkeeper",38,"Wales",6,0,0,0
+"390","Nottingham Forest","Premier League","England","Murillo","https://www.transfermarkt.com/murillo/profil/spieler/1005649","Centre-Back",22,"Brazil",39,39,2,3521
+"391","Nottingham Forest","Premier League","England","Nikola Milenković","https://www.transfermarkt.com/nikola-milenkovic/profil/spieler/413507","Centre-Back",27,"Serbia",41,40,5,3570
+"392","Nottingham Forest","Premier League","England","Ola Aina","https://www.transfermarkt.com/ola-aina/profil/spieler/236490","Right-Back",28,"Nigeria",37,37,2,3242
+"393","Nottingham Forest","Premier League","England","Neco Williams","https://www.transfermarkt.com/neco-williams/profil/spieler/503680","Right-Back",24,"Wales",42,39,1,2803
+"394","Nottingham Forest","Premier League","England","Morato","https://www.transfermarkt.com/morato/profil/spieler/673492","Centre-Back",23,"Brazil",39,29,0,1103
+"395","Nottingham Forest","Premier League","England","Andrew Omobamidele","https://www.transfermarkt.com/andrew-omobamidele/profil/spieler/621993","Centre-Back",22,"Ireland",5,1,0,90
+"396","Nottingham Forest","Premier League","England","Álex Moreno","https://www.transfermarkt.com/alex-moreno/profil/spieler/193098","Left-Back",31,"Spain",33,19,0,1312
+"397","Nottingham Forest","Premier League","England","Harry Toffolo","https://www.transfermarkt.com/harry-toffolo/profil/spieler/198516","Left-Back",29,"England",29,7,0,435
+"398","Nottingham Forest","Premier League","England","Willy Boly","https://www.transfermarkt.com/willy-boly/profil/spieler/142310","Centre-Back",34,"Cote d'Ivoire",35,9,0,446
+"399","Nottingham Forest","Premier League","England","Tyler Bindon","https://www.transfermarkt.com/tyler-bindon/profil/spieler/1007720","Centre-Back",20,"New Zealand",0,0,0,0
+"400","Nottingham Forest","Premier League","England","Zach Abbott","https://www.transfermarkt.com/zach-abbott/profil/spieler/933017","Centre-Back",19,"England",11,2,0,143
+"401","Nottingham Forest","Premier League","England","Morgan Gibbs-White","https://www.transfermarkt.com/morgan-gibbs-white/profil/spieler/429014","Attacking Midfield",25,"England",38,38,7,3142
+"402","Nottingham Forest","Premier League","England","Elliot Anderson","https://www.transfermarkt.com/elliot-anderson/profil/spieler/567576","Central Midfield",22,"England",43,42,2,3123
+"403","Nottingham Forest","Premier League","England","Danilo","https://www.transfermarkt.com/danilo/profil/spieler/808509","Defensive Midfield",24,"Brazil",19,13,0,505
+"404","Nottingham Forest","Premier League","England","Ibrahim Sangaré","https://www.transfermarkt.com/ibrahim-sangare/profil/spieler/375885","Defensive Midfield",27,"Cote d'Ivoire",23,17,0,770
+"405","Nottingham Forest","Premier League","England","Nicolás Domínguez","https://www.transfermarkt.com/nicolas-dominguez/profil/spieler/497291","Central Midfield",26,"Argentina",43,39,0,2316
+"406","Nottingham Forest","Premier League","England","Ryan Yates","https://www.transfermarkt.com/ryan-yates/profil/spieler/425902","Central Midfield",27,"England",41,39,4,2289
+"407","Nottingham Forest","Premier League","England","James Ward-Prowse","https://www.transfermarkt.com/james-ward-prowse/profil/spieler/181579","Central Midfield",30,"England",19,10,0,483
+"408","Nottingham Forest","Premier League","England","Lewis O'Brien","https://www.transfermarkt.com/lewis-obrien/profil/spieler/560694","Central Midfield",26,"England",0,0,0,0
+"409","Nottingham Forest","Premier League","England","Eric da Silva Moreira","https://www.transfermarkt.com/eric-da-silva-moreira/profil/spieler/897481","Right Midfield",19,"Germany",12,5,0,306
+"410","Nottingham Forest","Premier League","England","Ben Perry","https://www.transfermarkt.com/ben-perry/profil/spieler/925105","Central Midfield",20,"England",1,0,0,0
+"411","Nottingham Forest","Premier League","England","Anthony Elanga","https://www.transfermarkt.com/anthony-elanga/profil/spieler/583189","Right Winger",23,"Sweden",44,43,6,2752
+"412","Nottingham Forest","Premier League","England","Callum Hudson-Odoi","https://www.transfermarkt.com/callum-hudson-odoi/profil/spieler/392768","Left Winger",24,"England",37,36,5,2511
+"413","Nottingham Forest","Premier League","England","Taiwo Awoniyi","https://www.transfermarkt.com/taiwo-awoniyi/profil/spieler/295313","Centre-Forward",27,"Nigeria",39,32,2,815
+"414","Nottingham Forest","Premier League","England","Jota Silva","https://www.transfermarkt.com/jota-silva/profil/spieler/663244","Right Winger",25,"Portugal",43,37,4,1136
+"415","Nottingham Forest","Premier League","England","Ramón Sosa","https://www.transfermarkt.com/ramon-sosa/profil/spieler/745191","Left Winger",25,"Paraguay",37,23,3,550
+"416","Nottingham Forest","Premier League","England","Chris Wood","https://www.transfermarkt.com/chris-wood/profil/spieler/108725","Centre-Forward",33,"New Zealand",41,40,20,3135
+"417","Nottingham Forest","Premier League","England","Emmanuel Dennis","https://www.transfermarkt.com/emmanuel-dennis/profil/spieler/448854","Centre-Forward",27,"Nigeria",0,0,0,0
+"418","Nottingham Forest","Premier League","England","Josh Bowler","https://www.transfermarkt.com/josh-bowler/profil/spieler/506470","Right Winger",26,"England",0,0,0,0
+"419","Crystal Palace","Premier League","England","Dean Henderson","https://www.transfermarkt.com/dean-henderson/profil/spieler/258919","Goalkeeper",28,"England",47,44,0,3960
+"420","Crystal Palace","Premier League","England","Sam Johnstone","https://www.transfermarkt.com/sam-johnstone/profil/spieler/110864","Goalkeeper",32,"England",3,0,0,0
+"421","Crystal Palace","Premier League","England","Matt Turner","https://www.transfermarkt.com/matt-turner/profil/spieler/425306","Goalkeeper",30,"United States",41,4,0,360
+"422","Crystal Palace","Premier League","England","Joe Whitworth","https://www.transfermarkt.com/joe-whitworth/profil/spieler/670840","Goalkeeper",21,"England",0,0,0,0
+"423","Crystal Palace","Premier League","England","Remi Matthews","https://www.transfermarkt.com/remi-matthews/profil/spieler/196722","Goalkeeper",31,"England",9,0,0,0
+"424","Crystal Palace","Premier League","England","Marc Guéhi","https://www.transfermarkt.com/marc-guehi/profil/spieler/392757","Centre-Back",24,"England",44,44,3,3931
+"425","Crystal Palace","Premier League","England","Joachim Andersen","https://www.transfermarkt.com/joachim-andersen/profil/spieler/260827","Centre-Back",29,"Denmark",1,1,0,90
+"426","Crystal Palace","Premier League","England","Trevoh Chalobah","https://www.transfermarkt.com/trevoh-chalobah/profil/spieler/346314","Centre-Back",25,"England",16,14,3,1243
+"427","Crystal Palace","Premier League","England","Tyrick Mitchell","https://www.transfermarkt.com/tyrick-mitchell/profil/spieler/730893","Left-Back",25,"England",48,45,0,3768
+"428","Crystal Palace","Premier League","England","Maxence Lacroix","https://www.transfermarkt.com/maxence-lacroix/profil/spieler/434224","Centre-Back",25,"France",44,43,1,3839
+"429","Crystal Palace","Premier League","England","Daniel Muñoz","https://www.transfermarkt.com/daniel-munoz/profil/spieler/493003","Right-Back",29,"Colombia",46,46,6,4028
+"430","Crystal Palace","Premier League","England","Ben Chilwell","https://www.transfermarkt.com/ben-chilwell/profil/spieler/316125","Left-Back",28,"England",17,11,1,395
+"431","Crystal Palace","Premier League","England","Chadi Riad","https://www.transfermarkt.com/chadi-riad/profil/spieler/689637","Centre-Back",21,"Morocco",8,3,0,190
+"432","Crystal Palace","Premier League","England","Chris Richards","https://www.transfermarkt.com/chris-richards/profil/spieler/578539","Centre-Back",25,"United States",38,32,1,2635
+"433","Crystal Palace","Premier League","England","Rob Holding","https://www.transfermarkt.com/rob-holding/profil/spieler/253341","Centre-Back",29,"England",1,0,0,0
+"434","Crystal Palace","Premier League","England","Nathaniel Clyne","https://www.transfermarkt.com/nathaniel-clyne/profil/spieler/85177","Right-Back",34,"England",47,19,0,699
+"435","Crystal Palace","Premier League","England","Caleb Kporha","https://www.transfermarkt.com/caleb-kporha/profil/spieler/1047261","Right-Back",18,"England",32,4,0,57
+"436","Crystal Palace","Premier League","England","Joel Ward","https://www.transfermarkt.com/joel-ward/profil/spieler/92572","Right-Back",35,"England",25,3,0,83
+"437","Crystal Palace","Premier League","England","Eberechi Eze","https://www.transfermarkt.com/eberechi-eze/profil/spieler/479999","Attacking Midfield",26,"England",43,43,14,3303
+"438","Crystal Palace","Premier League","England","Adam Wharton","https://www.transfermarkt.com/adam-wharton/profil/spieler/744149","Defensive Midfield",21,"England",29,27,0,1706
+"439","Crystal Palace","Premier League","England","Ismaïla Sarr","https://www.transfermarkt.com/ismaila-sarr/profil/spieler/410225","Attacking Midfield",27,"Senegal",47,47,12,3254
+"440","Crystal Palace","Premier League","England","Cheick Doucouré","https://www.transfermarkt.com/cheick-doucoure/profil/spieler/543387","Defensive Midfield",25,"Mali",20,14,0,515
+"441","Crystal Palace","Premier League","England","Daichi Kamada","https://www.transfermarkt.com/daichi-kamada/profil/spieler/356141","Attacking Midfield",28,"Japan",45,43,2,2196
+"442","Crystal Palace","Premier League","England","Jefferson Lerma","https://www.transfermarkt.com/jefferson-lerma/profil/spieler/262980","Defensive Midfield",30,"Colombia",43,42,0,2806
+"443","Crystal Palace","Premier League","England","Matheus França","https://www.transfermarkt.com/matheus-franca/profil/spieler/743597","Attacking Midfield",21,"Brazil",14,7,1,59
+"444","Crystal Palace","Premier League","England","Will Hughes","https://www.transfermarkt.com/will-hughes/profil/spieler/207014","Central Midfield",30,"England",41,41,0,2536
+"445","Crystal Palace","Premier League","England","Justin Devenny","https://www.transfermarkt.com/justin-devenny/profil/spieler/747009","Central Midfield",21,"Northern Ireland",38,28,2,598
+"446","Crystal Palace","Premier League","England","Jeffrey Schlupp","https://www.transfermarkt.com/jeffrey-schlupp/profil/spieler/157506","Left Midfield",32,"Ghana",29,16,0,173
+"447","Crystal Palace","Premier League","England","Naouirou Ahamada","https://www.transfermarkt.com/naouirou-ahamada/profil/spieler/538971","Central Midfield",23,"France",2,0,0,0
+"448","Crystal Palace","Premier League","England","David Ozoh","https://www.transfermarkt.com/david-ozoh/profil/spieler/865993","Defensive Midfield",20,"England",0,0,0,0
+"449","Crystal Palace","Premier League","England","Kaden Rodney","https://www.transfermarkt.com/kaden-rodney/profil/spieler/860078","Defensive Midfield",20,"England",3,0,0,0
+"450","Crystal Palace","Premier League","England","Jean-Philippe Mateta","https://www.transfermarkt.com/jean-philippe-mateta/profil/spieler/420002","Centre-Forward",27,"France",47,46,17,3301
+"451","Crystal Palace","Premier League","England","Eddie Nketiah","https://www.transfermarkt.com/eddie-nketiah/profil/spieler/340324","Centre-Forward",26,"England",39,37,7,1417
+"452","Crystal Palace","Premier League","England","Romain Esse","https://www.transfermarkt.com/romain-esse/profil/spieler/967319","Right Winger",20,"England",20,9,1,189
+"453","Crystal Palace","Premier League","England","Odsonne Edouard","https://www.transfermarkt.com/odsonne-edouard/profil/spieler/344152","Centre-Forward",27,"France",3,2,0,116
+"454","Crystal Palace","Premier League","England","Jordan Ayew","https://www.transfermarkt.com/jordan-ayew/profil/spieler/108354","Right Winger",33,"Ghana",1,1,0,20
+"455","Crystal Palace","Premier League","England","Malcolm Ebiowei","https://www.transfermarkt.com/malcolm-ebiowei/profil/spieler/512354","Right Winger",21,"England",0,0,0,0
+"456","Crystal Palace","Premier League","England","Franco Umeh-Chibueze","https://www.transfermarkt.com/franco-umeh-chibueze/profil/spieler/943560","Right Winger",20,"Ireland",10,0,0,0
+"457","Crystal Palace","Premier League","England","Zach Marsh","https://www.transfermarkt.com/zach-marsh/profil/spieler/1004679","Centre-Forward",19,"England",1,0,0,0
+"458","Crystal Palace","Premier League","England","Asher Agbinone","https://www.transfermarkt.com/asher-agbinone/profil/spieler/1047256","Left Winger",19,"England",14,2,0,4
+"459","Brentford FC","Premier League","England","Mark Flekken","https://www.transfermarkt.com/mark-flekken/profil/spieler/125714","Goalkeeper",31,"Netherlands",40,39,0,3456
+"460","Brentford FC","Premier League","England","Hákon Rafn Valdimarsson","https://www.transfermarkt.com/hakon-rafn-valdimarsson/profil/spieler/488935","Goalkeeper",23,"Iceland",43,5,0,414
+"461","Brentford FC","Premier League","England","Matthew Cox","https://www.transfermarkt.com/matthew-cox/profil/spieler/741236","Goalkeeper",22,"England",2,0,0,0
+"462","Brentford FC","Premier League","England","Julian Eyestone","https://www.transfermarkt.com/julian-eyestone/profil/spieler/1008553","Goalkeeper",19,"United States",2,0,0,0
+"463","Brentford FC","Premier League","England","Ben Winterbottom","https://www.transfermarkt.com/ben-winterbottom/profil/spieler/505046","Goalkeeper",23,"England",0,0,0,0
+"464","Brentford FC","Premier League","England","Nathan Collins","https://www.transfermarkt.com/nathan-collins/profil/spieler/469050","Centre-Back",24,"Ireland",43,42,2,3635
+"465","Brentford FC","Premier League","England","Keane Lewis-Potter","https://www.transfermarkt.com/keane-lewis-potter/profil/spieler/644401","Left-Back",24,"England",43,43,2,3395
+"466","Brentford FC","Premier League","England","Sepp van den Berg","https://www.transfermarkt.com/sepp-van-den-berg/profil/spieler/541231","Centre-Back",23,"Netherlands",36,35,0,2916
+"467","Brentford FC","Premier League","England","Kristoffer Ajer","https://www.transfermarkt.com/kristoffer-ajer/profil/spieler/328658","Centre-Back",27,"Norway",27,25,0,1533
+"468","Brentford FC","Premier League","England","Michael Kayode","https://www.transfermarkt.com/michael-kayode/profil/spieler/823486","Right-Back",20,"Italy",13,12,0,528
+"469","Brentford FC","Premier League","England","Rico Henry","https://www.transfermarkt.com/rico-henry/profil/spieler/339556","Left-Back",27,"England",11,6,0,158
+"470","Brentford FC","Premier League","England","Aaron Hickey","https://www.transfermarkt.com/aaron-hickey/profil/spieler/591949","Right-Back",22,"Scotland",1,0,0,0
+"471","Brentford FC","Premier League","England","Ethan Pinnock","https://www.transfermarkt.com/ethan-pinnock/profil/spieler/442248","Centre-Back",32,"Jamaica",34,23,2,1927
+"472","Brentford FC","Premier League","England","Mads Roerslev","https://www.transfermarkt.com/mads-roerslev/profil/spieler/391005","Right-Back",25,"Denmark",28,23,0,1373
+"473","Brentford FC","Premier League","England","Ben Mee","https://www.transfermarkt.com/ben-mee/profil/spieler/74810","Centre-Back",35,"England",39,11,0,541
+"474","Brentford FC","Premier League","England","Ji-soo Kim","https://www.transfermarkt.com/ji-soo-kim/profil/spieler/709767","Centre-Back",20,"Korea, South",18,5,0,131
+"475","Brentford FC","Premier League","England","Jayden Meghoma","https://www.transfermarkt.com/jayden-meghoma/profil/spieler/954104","Left-Back",18,"England",18,4,0,174
+"476","Brentford FC","Premier League","England","Benjamin Fredrick","https://www.transfermarkt.com/benjamin-fredrick/profil/spieler/1071138","Centre-Back",20,"Nigeria",2,0,0,0
+"477","Brentford FC","Premier League","England","Benjamin Arthur","https://www.transfermarkt.com/benjamin-arthur/profil/spieler/1144158","Centre-Back",19,"England",5,0,0,0
+"478","Brentford FC","Premier League","England","Mikkel Damsgaard","https://www.transfermarkt.com/mikkel-damsgaard/profil/spieler/540941","Attacking Midfield",24,"Denmark",43,43,3,3221
+"479","Brentford FC","Premier League","England","Vitaly Janelt","https://www.transfermarkt.com/vitaly-janelt/profil/spieler/270171","Defensive Midfield",27,"Germany",36,35,1,2493
+"480","Brentford FC","Premier League","England","Yegor Yarmolyuk","https://www.transfermarkt.com/yegor-yarmolyuk/profil/spieler/717411","Central Midfield",21,"Ukraine",43,35,0,1776
+"481","Brentford FC","Premier League","England","Mathias Jensen","https://www.transfermarkt.com/mathias-jensen/profil/spieler/319859","Central Midfield",29,"Denmark",27,27,0,1025
+"482","Brentford FC","Premier League","England","Fábio Carvalho","https://www.transfermarkt.com/fabio-carvalho/profil/spieler/559263","Attacking Midfield",22,"Portugal",30,24,3,836
+"483","Brentford FC","Premier League","England","Christian Nørgaard","https://www.transfermarkt.com/christian-norgaard/profil/spieler/148367","Defensive Midfield",31,"Denmark",35,35,6,2893
+"484","Brentford FC","Premier League","England","Frank Onyeka","https://www.transfermarkt.com/frank-onyeka/profil/spieler/421637","Central Midfield",27,"Nigeria",3,3,0,112
+"485","Brentford FC","Premier League","England","Josh Dasilva","https://www.transfermarkt.com/josh-dasilva/profil/spieler/340321","Central Midfield",26,"England",0,0,0,0
+"486","Brentford FC","Premier League","England","Yunus Emre Konak","https://www.transfermarkt.com/yunus-emre-konak/profil/spieler/1141628","Defensive Midfield",19,"Türkiye",41,12,0,65
+"487","Brentford FC","Premier League","England","Paris Maghoma","https://www.transfermarkt.com/paris-maghoma/profil/spieler/470596","Central Midfield",24,"England",26,10,0,199
+"488","Brentford FC","Premier League","England","Ryan Trevitt","https://www.transfermarkt.com/ryan-trevitt/profil/spieler/874538","Central Midfield",22,"England",16,3,0,169
+"489","Brentford FC","Premier League","England","Bryan Mbeumo","https://www.transfermarkt.com/bryan-mbeumo/profil/spieler/413039","Right Winger",25,"Cameroon",42,42,20,3577
+"490","Brentford FC","Premier League","England","Yoane Wissa","https://www.transfermarkt.com/yoane-wissa/profil/spieler/388165","Centre-Forward",28,"DR Congo",39,39,20,3079
+"491","Brentford FC","Premier League","England","Kevin Schade","https://www.transfermarkt.com/kevin-schade/profil/spieler/473050","Left Winger",23,"Germany",43,43,12,2718
+"492","Brentford FC","Premier League","England","Igor Thiago","https://www.transfermarkt.com/igor-thiago/profil/spieler/739443","Centre-Forward",23,"Brazil",8,8,0,169
+"493","Brentford FC","Premier League","England","Gustavo Nunes","https://www.transfermarkt.com/gustavo-nunes/profil/spieler/1086375","Left Winger",19,"Brazil",7,3,0,11
+"494","Brentford FC","Premier League","England","Myles Peart-Harris","https://www.transfermarkt.com/myles-peart-harris/profil/spieler/587002","Left Winger",22,"Jamaica",2,1,0,6
+"495","Brentford FC","Premier League","England","Iwan Morgan","https://www.transfermarkt.com/iwan-morgan/profil/spieler/966671","Centre-Forward",19,"Wales",6,0,0,0
+"496","Brentford FC","Premier League","England","Tony Yogane","https://www.transfermarkt.com/tony-yogane/profil/spieler/979064","Left Winger",19,"England",8,1,0,6
+"497","Wolverhampton Wanderers","Premier League","England","José Sá","https://www.transfermarkt.com/jose-sa/profil/spieler/249994","Goalkeeper",32,"Portugal",34,30,0,2700
+"498","Wolverhampton Wanderers","Premier League","England","Sam Johnstone","https://www.transfermarkt.com/sam-johnstone/profil/spieler/110864","Goalkeeper",32,"England",26,10,0,930
+"499","Wolverhampton Wanderers","Premier League","England","Daniel Bentley","https://www.transfermarkt.com/daniel-bentley/profil/spieler/136401","Goalkeeper",31,"England",22,3,0,270
+"500","Wolverhampton Wanderers","Premier League","England","Tom King","https://www.transfermarkt.com/tom-king/profil/spieler/215810","Goalkeeper",30,"Wales",5,1,0,1
+"501","Wolverhampton Wanderers","Premier League","England","Rayan Aït-Nouri","https://www.transfermarkt.com/rayan-ait-nouri/profil/spieler/578391","Left-Back",23,"Algeria",41,41,5,3407
+"502","Wolverhampton Wanderers","Premier League","England","Toti","https://www.transfermarkt.com/toti/profil/spieler/606718","Centre-Back",26,"Portugal",35,34,0,2853
+"503","Wolverhampton Wanderers","Premier League","England","Emmanuel Agbadou","https://www.transfermarkt.com/emmanuel-agbadou/profil/spieler/683895","Centre-Back",27,"Cote d'Ivoire",18,18,1,1591
+"504","Wolverhampton Wanderers","Premier League","England","Santiago Bueno","https://www.transfermarkt.com/santiago-bueno/profil/spieler/438001","Centre-Back",26,"Uruguay",42,34,0,2117
+"505","Wolverhampton Wanderers","Premier League","England","Nasser Djiga","https://www.transfermarkt.com/nasser-djiga/profil/spieler/862297","Centre-Back",22,"Burkina Faso",15,6,0,151
+"506","Wolverhampton Wanderers","Premier League","England","Nélson Semedo","https://www.transfermarkt.com/nelson-semedo/profil/spieler/231572","Right-Back",31,"Portugal",37,37,0,3077
+"507","Wolverhampton Wanderers","Premier League","England","Yerson Mosquera","https://www.transfermarkt.com/yerson-mosquera/profil/spieler/716276","Centre-Back",24,"Colombia",5,5,0,442
+"508","Wolverhampton Wanderers","Premier League","England","Pedro Lima","https://www.transfermarkt.com/pedro-lima/profil/spieler/1193867","Right-Back",18,"Brazil",25,6,0,225
+"509","Wolverhampton Wanderers","Premier League","England","Bastien Meupiyou","https://www.transfermarkt.com/bastien-meupiyou/profil/spieler/955253","Centre-Back",19,"France",6,0,0,0
+"510","Wolverhampton Wanderers","Premier League","England","Matt Doherty","https://www.transfermarkt.com/matt-doherty/profil/spieler/171679","Right-Back",33,"Ireland",43,35,2,2413
+"511","Wolverhampton Wanderers","Premier League","England","Craig Dawson","https://www.transfermarkt.com/craig-dawson/profil/spieler/121477","Centre-Back",35,"England",23,16,0,1032
+"512","Wolverhampton Wanderers","Premier League","England","Alfie Pond","https://www.transfermarkt.com/alfie-pond/profil/spieler/821522","Centre-Back",21,"England",11,4,0,123
+"513","Wolverhampton Wanderers","Premier League","England","Wesley Okoduwa","https://www.transfermarkt.com/wesley-okoduwa/profil/spieler/1115502","Right-Back",17,"England",1,0,0,0
+"514","Wolverhampton Wanderers","Premier League","England","João Gomes","https://www.transfermarkt.com/joao-gomes/profil/spieler/735570","Central Midfield",24,"Brazil",40,40,4,3305
+"515","Wolverhampton Wanderers","Premier League","England","André","https://www.transfermarkt.com/andre/profil/spieler/800176","Defensive Midfield",23,"Brazil",39,36,0,2647
+"516","Wolverhampton Wanderers","Premier League","England","Jean-Ricner Bellegarde","https://www.transfermarkt.com/jean-ricner-bellegarde/profil/spieler/450050","Central Midfield",26,"France",41,39,2,1869
+"517","Wolverhampton Wanderers","Premier League","England","Marshall Munetsi","https://www.transfermarkt.com/marshall-munetsi/profil/spieler/414908","Central Midfield",28,"Zimbabwe",16,16,2,1151
+"518","Wolverhampton Wanderers","Premier League","England","Rodrigo Gomes","https://www.transfermarkt.com/rodrigo-gomes/profil/spieler/667121","Right Midfield",21,"Portugal",38,28,3,1068
+"519","Wolverhampton Wanderers","Premier League","England","Tommy Doyle","https://www.transfermarkt.com/tommy-doyle/profil/spieler/433183","Central Midfield",23,"England",38,26,1,656
+"520","Wolverhampton Wanderers","Premier League","England","Mario Lemina","https://www.transfermarkt.com/mario-lemina/profil/spieler/170934","Defensive Midfield",31,"Gabon",19,19,1,1434
+"521","Wolverhampton Wanderers","Premier League","England","Daniel Podence","https://www.transfermarkt.com/daniel-podence/profil/spieler/256977","Attacking Midfield",29,"Portugal",3,3,0,136
+"522","Wolverhampton Wanderers","Premier League","England","Boubacar Traoré","https://www.transfermarkt.com/boubacar-traore/profil/spieler/649020","Defensive Midfield",23,"Mali",10,3,0,80
+"523","Wolverhampton Wanderers","Premier League","England","Luke Cundle","https://www.transfermarkt.com/luke-cundle/profil/spieler/532541","Central Midfield",23,"England",4,0,0,0
+"524","Wolverhampton Wanderers","Premier League","England","Joe Hodge","https://www.transfermarkt.com/joe-hodge/profil/spieler/503975","Defensive Midfield",22,"Ireland",0,0,0,0
+"525","Wolverhampton Wanderers","Premier League","England","Chem Campbell","https://www.transfermarkt.com/chem-campbell/profil/spieler/614603","Attacking Midfield",22,"Wales",0,0,0,0
+"526","Wolverhampton Wanderers","Premier League","England","Tawanda Chirewa","https://www.transfermarkt.com/tawanda-chirewa/profil/spieler/724783","Attacking Midfield",21,"Zimbabwe",1,0,0,0
+"527","Wolverhampton Wanderers","Premier League","England","Luke Rawlings","https://www.transfermarkt.com/luke-rawlings/profil/spieler/1083691","Defensive Midfield",17,"England",1,0,0,0
+"528","Wolverhampton Wanderers","Premier League","England","Matheus Cunha","https://www.transfermarkt.com/matheus-cunha/profil/spieler/517894","Second Striker",26,"Brazil",36,36,17,2832
+"529","Wolverhampton Wanderers","Premier League","England","Jørgen Strand Larsen","https://www.transfermarkt.com/jorgen-strand-larsen/profil/spieler/429983","Centre-Forward",25,"Norway",39,38,14,2821
+"530","Wolverhampton Wanderers","Premier League","England","Hee-chan Hwang","https://www.transfermarkt.com/hee-chan-hwang/profil/spieler/292246","Centre-Forward",29,"Korea, South",34,25,2,868
+"531","Wolverhampton Wanderers","Premier League","England","Gonçalo Guedes","https://www.transfermarkt.com/goncalo-guedes/profil/spieler/225122","Left Winger",28,"Portugal",37,33,5,1286
+"532","Wolverhampton Wanderers","Premier League","England","Carlos Forbs","https://www.transfermarkt.com/carlos-forbs/profil/spieler/742451","Left Winger",21,"Portugal",30,11,0,260
+"533","Wolverhampton Wanderers","Premier League","England","Pablo Sarabia","https://www.transfermarkt.com/pablo-sarabia/profil/spieler/74230","Right Winger",33,"Spain",36,28,3,1062
+"534","Wolverhampton Wanderers","Premier League","England","Sasa Kalajdzic","https://www.transfermarkt.com/sasa-kalajdzic/profil/spieler/369567","Centre-Forward",27,"Austria",0,0,0,0
+"535","Wolverhampton Wanderers","Premier League","England","Enso González","https://www.transfermarkt.com/enso-gonzalez/profil/spieler/1060740","Left Winger",20,"Paraguay",0,0,0,0
+"536","Wolverhampton Wanderers","Premier League","England","Chiquinho","https://www.transfermarkt.com/chiquinho/profil/spieler/695454","Left Winger",25,"Portugal",2,2,0,96
+"537","Wolverhampton Wanderers","Premier League","England","Leon Chiwome","https://www.transfermarkt.com/leon-chiwome/profil/spieler/1043634","Centre-Forward",19,"England",1,0,0,0
+"538","Wolverhampton Wanderers","Premier League","England","Nathan Fraser","https://www.transfermarkt.com/nathan-fraser/profil/spieler/863741","Centre-Forward",20,"Ireland",0,0,0,0
+"539","Wolverhampton Wanderers","Premier League","England","Mateus Mané","https://www.transfermarkt.com/mateus-mane/profil/spieler/1230661","Centre-Forward",17,"England",5,1,0,1
+"540","Wolverhampton Wanderers","Premier League","England","Tom Edozie","https://www.transfermarkt.com/tom-edozie/profil/spieler/1065227","Right Winger",19,"England",1,0,0,0
+"541","AFC Bournemouth","Premier League","England","Kepa Arrizabalaga","https://www.transfermarkt.com/kepa-arrizabalaga/profil/spieler/192279","Goalkeeper",30,"Spain",36,35,0,3180
+"542","AFC Bournemouth","Premier League","England","Mark Travers","https://www.transfermarkt.com/mark-travers/profil/spieler/357658","Goalkeeper",26,"Ireland",25,5,0,450
+"543","AFC Bournemouth","Premier League","England","Neto","https://www.transfermarkt.com/neto/profil/spieler/111819","Goalkeeper",35,"Brazil",3,3,0,270
+"544","AFC Bournemouth","Premier League","England","Callan McKenna","https://www.transfermarkt.com/callan-mckenna/profil/spieler/983248","Goalkeeper",18,"Scotland",2,0,0,0
+"545","AFC Bournemouth","Premier League","England","Will Dennis","https://www.transfermarkt.com/will-dennis/profil/spieler/582078","Goalkeeper",24,"England",26,0,0,0
+"546","AFC Bournemouth","Premier League","England","Dean Huijsen","https://www.transfermarkt.com/dean-huijsen/profil/spieler/890290","Centre-Back",20,"Spain",42,36,3,2812
+"547","AFC Bournemouth","Premier League","England","Milos Kerkez","https://www.transfermarkt.com/milos-kerkez/profil/spieler/730861","Left-Back",21,"Hungary",42,41,2,3565
+"548","AFC Bournemouth","Premier League","England","Ilya Zabarnyi","https://www.transfermarkt.com/ilya-zabarnyi/profil/spieler/659089","Centre-Back",22,"Ukraine",40,39,0,3384
+"549","AFC Bournemouth","Premier League","England","Marcos Senesi","https://www.transfermarkt.com/marcos-senesi/profil/spieler/469781","Centre-Back",28,"Argentina",23,19,0,1282
+"550","AFC Bournemouth","Premier League","England","Max Aarons","https://www.transfermarkt.com/max-aarons/profil/spieler/471690","Right-Back",25,"England",15,4,0,130
+"551","AFC Bournemouth","Premier League","England","Julián Araujo","https://www.transfermarkt.com/julian-araujo/profil/spieler/513970","Right-Back",23,"Mexico",20,13,0,501
+"552","AFC Bournemouth","Premier League","England","Julio Soler","https://www.transfermarkt.com/julio-soler/profil/spieler/1009658","Left-Back",20,"Argentina",16,5,0,156
+"553","AFC Bournemouth","Premier League","England","Chris Mepham","https://www.transfermarkt.com/chris-mepham/profil/spieler/480987","Centre-Back",27,"Wales",0,0,0,0
+"554","AFC Bournemouth","Premier League","England","James Hill","https://www.transfermarkt.com/james-hill/profil/spieler/611793","Centre-Back",23,"England",35,14,0,782
+"555","AFC Bournemouth","Premier League","England","Matai Akinmboni","https://www.transfermarkt.com/matai-akinmboni/profil/spieler/994604","Centre-Back",18,"United States",12,0,0,0
+"556","AFC Bournemouth","Premier League","England","Adam Smith","https://www.transfermarkt.com/adam-smith/profil/spieler/61841","Right-Back",34,"England",28,27,0,1702
+"557","AFC Bournemouth","Premier League","England","Archie Harris","https://www.transfermarkt.com/archie-harris/profil/spieler/963879","Left-Back",20,"Wales",2,0,0,0
+"558","AFC Bournemouth","Premier League","England","Max Kinsey","https://www.transfermarkt.com/max-kinsey/profil/spieler/939615","Centre-Back",20,"England",16,1,0,1
+"559","AFC Bournemouth","Premier League","England","Justin Kluivert","https://www.transfermarkt.com/justin-kluivert/profil/spieler/330659","Attacking Midfield",26,"Netherlands",39,39,13,2614
+"560","AFC Bournemouth","Premier League","England","Hamed Junior Traoré","https://www.transfermarkt.com/hamed-junior-traore/profil/spieler/391065","Attacking Midfield",25,"Cote d'Ivoire",1,0,0,0
+"561","AFC Bournemouth","Premier League","England","Alex Scott","https://www.transfermarkt.com/alex-scott/profil/spieler/855256","Central Midfield",21,"England",24,23,0,931
+"562","AFC Bournemouth","Premier League","England","Tyler Adams","https://www.transfermarkt.com/tyler-adams/profil/spieler/332705","Defensive Midfield",26,"United States",33,32,0,2354
+"563","AFC Bournemouth","Premier League","England","Lewis Cook","https://www.transfermarkt.com/lewis-cook/profil/spieler/249089","Central Midfield",28,"England",41,40,1,3289
+"564","AFC Bournemouth","Premier League","England","Philip Billing","https://www.transfermarkt.com/philip-billing/profil/spieler/320411","Central Midfield",28,"Denmark",13,10,0,176
+"565","AFC Bournemouth","Premier League","England","Ryan Christie","https://www.transfermarkt.com/ryan-christie/profil/spieler/188077","Defensive Midfield",30,"Scotland",32,32,2,2384
+"566","AFC Bournemouth","Premier League","England","Ben Winterburn","https://www.transfermarkt.com/ben-winterburn/profil/spieler/854721","Defensive Midfield",20,"England",24,6,0,176
+"567","AFC Bournemouth","Premier League","England","Antoine Semenyo","https://www.transfermarkt.com/antoine-semenyo/profil/spieler/583255","Left Winger",25,"Ghana",42,42,13,3562
+"568","AFC Bournemouth","Premier League","England","Evanilson","https://www.transfermarkt.com/evanilson/profil/spieler/711337","Centre-Forward",25,"Brazil",35,34,12,2521
+"569","AFC Bournemouth","Premier League","England","Dango Ouattara","https://www.transfermarkt.com/dango-ouattara/profil/spieler/823231","Left Winger",23,"Burkina Faso",37,37,9,2285
+"570","AFC Bournemouth","Premier League","England","Marcus Tavernier","https://www.transfermarkt.com/marcus-tavernier/profil/spieler/399434","Left Winger",26,"England",32,32,3,2206
+"571","AFC Bournemouth","Premier League","England","Luis Sinisterra","https://www.transfermarkt.com/luis-sinisterra/profil/spieler/512385","Left Winger",25,"Colombia",15,14,1,334
+"572","AFC Bournemouth","Premier League","England","David Brooks","https://www.transfermarkt.com/david-brooks/profil/spieler/277033","Right Winger",27,"Wales",40,33,2,1161
+"573","AFC Bournemouth","Premier League","England","Enes Ünal","https://www.transfermarkt.com/enes-unal/profil/spieler/251106","Centre-Forward",28,"Türkiye",17,17,2,332
+"574","AFC Bournemouth","Premier League","England","Jaidon Anthony","https://www.transfermarkt.com/jaidon-anthony/profil/spieler/684210","Left Winger",25,"England",2,0,0,0
+"575","AFC Bournemouth","Premier League","England","Daniel Jebbison","https://www.transfermarkt.com/daniel-jebbison/profil/spieler/746740","Centre-Forward",21,"Canada",25,21,3,271
+"576","AFC Bournemouth","Premier League","England","Remy Rees-Dottin","https://www.transfermarkt.com/remy-rees-dottin/profil/spieler/1089802","Attack",19,"England",9,2,0,2
+"577","AFC Bournemouth","Premier League","England","Zain Silcott-Duberry","https://www.transfermarkt.com/zain-silcott-duberry/profil/spieler/777308","Left Winger",19,"England",11,2,0,2
+"578","AFC Bournemouth","Premier League","England","Dominic Sadi","https://www.transfermarkt.com/dominic-sadi/profil/spieler/936901","Right Winger",21,"England",1,0,0,0
+"579","AFC Bournemouth","Premier League","England","Daniel Adu-Adjei","https://www.transfermarkt.com/daniel-adu-adjei/profil/spieler/963878","Centre-Forward",19,"England",4,0,0,0
+"580","West Ham United","Premier League","England","Alphonse Areola","https://www.transfermarkt.com/alphonse-areola/profil/spieler/120629","Goalkeeper",32,"France",34,26,0,2259
+"581","West Ham United","Premier League","England","Wes Foderingham","https://www.transfermarkt.com/wes-foderingham/profil/spieler/61697","Goalkeeper",34,"England",12,0,0,0
+"582","West Ham United","Premier League","England","Lukasz Fabianski","https://www.transfermarkt.com/lukasz-fabianski/profil/spieler/29692","Goalkeeper",40,"Poland",38,17,0,1431
+"583","West Ham United","Premier League","England","Jean-Clair Todibo","https://www.transfermarkt.com/jean-clair-todibo/profil/spieler/605184","Centre-Back",25,"France",34,29,0,1968
+"584","West Ham United","Premier League","England","Maximilian Kilman","https://www.transfermarkt.com/maximilian-kilman/profil/spieler/525247","Centre-Back",28,"England",41,41,0,3619
+"585","West Ham United","Premier League","England","Aaron Wan-Bissaka","https://www.transfermarkt.com/aaron-wan-bissaka/profil/spieler/477758","Right-Back",27,"DR Congo",40,38,2,3335
+"586","West Ham United","Premier League","England","Konstantinos Mavropanos","https://www.transfermarkt.com/konstantinos-mavropanos/profil/spieler/415912","Centre-Back",27,"Greece",39,35,0,2167
+"587","West Ham United","Premier League","England","Emerson","https://www.transfermarkt.com/emerson/profil/spieler/181778","Left-Back",30,"Italy",37,32,2,2141
+"588","West Ham United","Premier League","England","Oliver Scarles","https://www.transfermarkt.com/oliver-scarles/profil/spieler/922563","Left-Back",19,"England",22,16,0,740
+"589","West Ham United","Premier League","England","Vladimír Coufal","https://www.transfermarkt.com/vladimir-coufal/profil/spieler/157672","Right-Back",32,"Czech Republic",36,25,0,1286
+"590","West Ham United","Premier League","England","Kaelan Casey","https://www.transfermarkt.com/kaelan-casey/profil/spieler/845321","Centre-Back",20,"England",9,1,0,1
+"591","West Ham United","Premier League","England","Aaron Cresswell","https://www.transfermarkt.com/aaron-cresswell/profil/spieler/92571","Left-Back",35,"England",33,20,0,926
+"592","West Ham United","Premier League","England","Ezra Mayers","https://www.transfermarkt.com/ezra-mayers/profil/spieler/1107726","Centre-Back",18,"England",1,0,0,0
+"593","West Ham United","Premier League","England","Lucas Paquetá","https://www.transfermarkt.com/lucas-paqueta/profil/spieler/444523","Attacking Midfield",27,"Brazil",37,36,5,2536
+"594","West Ham United","Premier League","England","Edson Álvarez","https://www.transfermarkt.com/edson-alvarez/profil/spieler/401356","Defensive Midfield",27,"Mexico",33,31,0,2003
+"595","West Ham United","Premier League","England","Carlos Soler","https://www.transfermarkt.com/carlos-soler/profil/spieler/372246","Central Midfield",28,"Spain",35,33,1,1487
+"596","West Ham United","Premier League","England","Tomas Soucek","https://www.transfermarkt.com/tomas-soucek/profil/spieler/283628","Defensive Midfield",30,"Czech Republic",39,38,9,2810
+"597","West Ham United","Premier League","England","Guido Rodríguez","https://www.transfermarkt.com/guido-rodriguez/profil/spieler/342385","Defensive Midfield",31,"Argentina",39,24,0,1185
+"598","West Ham United","Premier League","England","James Ward-Prowse","https://www.transfermarkt.com/james-ward-prowse/profil/spieler/181579","Central Midfield",30,"England",17,16,1,1102
+"599","West Ham United","Premier League","England","Andrew Irving","https://www.transfermarkt.com/andrew-irving/profil/spieler/430310","Central Midfield",25,"Scotland",28,11,0,174
+"600","West Ham United","Premier League","England","Lewis Orford","https://www.transfermarkt.com/lewis-orford/profil/spieler/845809","Central Midfield",19,"England",5,2,0,47
+"601","West Ham United","Premier League","England","Mohammed Kudus","https://www.transfermarkt.com/mohammed-kudus/profil/spieler/543499","Right Winger",24,"Ghana",35,35,5,2721
+"602","West Ham United","Premier League","England","Jarrod Bowen","https://www.transfermarkt.com/jarrod-bowen/profil/spieler/314875","Right Winger",28,"England",36,36,14,3148
+"603","West Ham United","Premier League","England","Evan Ferguson","https://www.transfermarkt.com/evan-ferguson/profil/spieler/648046","Centre-Forward",20,"Ireland",12,8,0,151
+"604","West Ham United","Premier League","England","Crysencio Summerville","https://www.transfermarkt.com/crysencio-summerville/profil/spieler/474701","Left Winger",23,"Netherlands",23,22,1,989
+"605","West Ham United","Premier League","England","Luis Guilherme","https://www.transfermarkt.com/luis-guilherme/profil/spieler/991800","Right Winger",19,"Brazil",36,13,0,144
+"606","West Ham United","Premier League","England","Niclas Füllkrug","https://www.transfermarkt.com/niclas-fullkrug/profil/spieler/75489","Centre-Forward",32,"Germany",21,20,3,877
+"607","West Ham United","Premier League","England","Danny Ings","https://www.transfermarkt.com/danny-ings/profil/spieler/134294","Centre-Forward",32,"England",32,17,1,405
+"608","West Ham United","Premier League","England","Michail Antonio","https://www.transfermarkt.com/michail-antonio/profil/spieler/104124","Centre-Forward",35,"Jamaica",16,15,1,874
+"609","Fulham FC","Premier League","England","Bernd Leno","https://www.transfermarkt.com/bernd-leno/profil/spieler/72476","Goalkeeper",33,"Germany",44,40,0,3630
+"610","Fulham FC","Premier League","England","Steven Benda","https://www.transfermarkt.com/steven-benda/profil/spieler/381469","Goalkeeper",26,"Germany",44,4,0,360
+"611","Fulham FC","Premier League","England","Antonee Robinson","https://www.transfermarkt.com/antonee-robinson/profil/spieler/349701","Left-Back",27,"United States",38,38,0,3358
+"612","Fulham FC","Premier League","England","Joachim Andersen","https://www.transfermarkt.com/joachim-andersen/profil/spieler/260827","Centre-Back",29,"Denmark",36,33,1,2950
+"613","Fulham FC","Premier League","England","Calvin Bassey","https://www.transfermarkt.com/calvin-bassey/profil/spieler/461883","Centre-Back",25,"Nigeria",42,37,2,3284
+"614","Fulham FC","Premier League","England","Ryan Sessegnon","https://www.transfermarkt.com/ryan-sessegnon/profil/spieler/392775","Left-Back",25,"England",38,22,4,972
+"615","Fulham FC","Premier League","England","Issa Diop","https://www.transfermarkt.com/issa-diop/profil/spieler/272622","Centre-Back",28,"France",35,24,0,1539
+"616","Fulham FC","Premier League","England","Kenny Tete","https://www.transfermarkt.com/kenny-tete/profil/spieler/206746","Right-Back",29,"Netherlands",26,22,0,1779
+"617","Fulham FC","Premier League","England","Timothy Castagne","https://www.transfermarkt.com/timothy-castagne/profil/spieler/262226","Right-Back",29,"Belgium",39,30,1,2213
+"618","Fulham FC","Premier League","England","Jorge Cuenca","https://www.transfermarkt.com/jorge-cuenca/profil/spieler/494880","Centre-Back",25,"Spain",32,12,0,710
+"619","Fulham FC","Premier League","England","Sam Amissah","https://www.transfermarkt.com/sam-amissah/profil/spieler/1026524","Centre-Back",18,"England",1,0,0,0
+"620","Fulham FC","Premier League","England","Emile Smith Rowe","https://www.transfermarkt.com/emile-smith-rowe/profil/spieler/392765","Attacking Midfield",24,"England",40,40,6,2240
+"621","Fulham FC","Premier League","England","Alex Iwobi","https://www.transfermarkt.com/alex-iwobi/profil/spieler/242631","Attacking Midfield",29,"Nigeria",44,44,9,3293
+"622","Fulham FC","Premier League","England","Sander Berge","https://www.transfermarkt.com/sander-berge/profil/spieler/333014","Defensive Midfield",27,"Norway",36,36,0,2597
+"623","Fulham FC","Premier League","England","Andreas Pereira","https://www.transfermarkt.com/andreas-pereira/profil/spieler/203394","Attacking Midfield",29,"Brazil",39,37,2,2344
+"624","Fulham FC","Premier League","England","Saša Lukić","https://www.transfermarkt.com/sasa-lukic/profil/spieler/245056","Central Midfield",28,"Serbia",35,35,0,2614
+"625","Fulham FC","Premier League","England","Harrison Reed","https://www.transfermarkt.com/harrison-reed/profil/spieler/226973","Central Midfield",30,"England",32,17,0,384
+"626","Fulham FC","Premier League","England","Tom Cairney","https://www.transfermarkt.com/tom-cairney/profil/spieler/123275","Central Midfield",34,"Scotland",41,29,2,869
+"627","Fulham FC","Premier League","England","Josh King","https://www.transfermarkt.com/josh-king/profil/spieler/1011131","Central Midfield",18,"England",27,11,0,262
+"628","Fulham FC","Premier League","England","Rodrigo Muniz","https://www.transfermarkt.com/rodrigo-muniz/profil/spieler/735571","Centre-Forward",24,"Brazil",38,36,11,1355
+"629","Fulham FC","Premier League","England","Reiss Nelson","https://www.transfermarkt.com/reiss-nelson/profil/spieler/340325","Right Winger",25,"England",12,12,2,572
+"630","Fulham FC","Premier League","England","Harry Wilson","https://www.transfermarkt.com/harry-wilson/profil/spieler/279455","Right Winger",28,"Wales",31,27,6,1323
+"631","Fulham FC","Premier League","England","Jay Stansfield","https://www.transfermarkt.com/jay-stansfield/profil/spieler/696346","Centre-Forward",22,"England",3,2,1,79
+"632","Fulham FC","Premier League","England","Adama Traoré","https://www.transfermarkt.com/adama-traore/profil/spieler/204103","Right Winger",29,"Spain",42,41,2,1958
+"633","Fulham FC","Premier League","England","Raúl Jiménez","https://www.transfermarkt.com/raul-jimenez/profil/spieler/206040","Centre-Forward",34,"Mexico",44,43,14,2696
+"634","Fulham FC","Premier League","England","Carlos Vinícius","https://www.transfermarkt.com/carlos-vinicius/profil/spieler/525287","Centre-Forward",30,"Brazil",12,4,0,14
+"635","Fulham FC","Premier League","England","Willian","https://www.transfermarkt.com/willian/profil/spieler/52769","Left Winger",36,"Brazil",17,12,0,354
+"636","Fulham FC","Premier League","England","Martial Godo","https://www.transfermarkt.com/martial-godo/profil/spieler/992686","Left Winger",22,"England",12,5,0,125
+"637","Everton FC","Premier League","England","Jordan Pickford","https://www.transfermarkt.com/jordan-pickford/profil/spieler/130164","Goalkeeper",31,"England",41,40,0,3600
+"638","Everton FC","Premier League","England","João Virgínia","https://www.transfermarkt.com/joao-virginia/profil/spieler/329813","Goalkeeper",25,"Portugal",42,2,0,180
+"639","Everton FC","Premier League","England","Asmir Begovic","https://www.transfermarkt.com/asmir-begovic/profil/spieler/33873","Goalkeeper",37,"Bosnia-Herzegovina",21,0,0,0
+"640","Everton FC","Premier League","England","Zan Luk Leban","https://www.transfermarkt.com/zan-luk-leban/profil/spieler/605757","Goalkeeper",22,"Slovenia",1,0,0,0
+"641","Everton FC","Premier League","England","Jarrad Branthwaite","https://www.transfermarkt.com/jarrad-branthwaite/profil/spieler/661053","Centre-Back",22,"England",32,32,0,2690
+"642","Everton FC","Premier League","England","Vitaliy Mykolenko","https://www.transfermarkt.com/vitaliy-mykolenko/profil/spieler/404842","Left-Back",26,"Ukraine",37,37,1,3264
+"643","Everton FC","Premier League","England","Jake O'Brien","https://www.transfermarkt.com/jake-obrien/profil/spieler/711544","Right-Back",24,"Ireland",41,24,2,1929
+"644","Everton FC","Premier League","England","Nathan Patterson","https://www.transfermarkt.com/nathan-patterson/profil/spieler/424015","Right-Back",23,"Scotland",29,11,0,418
+"645","Everton FC","Premier League","England","James Tarkowski","https://www.transfermarkt.com/james-tarkowski/profil/spieler/173504","Centre-Back",32,"England",34,34,1,3014
+"646","Everton FC","Premier League","England","Michael Keane","https://www.transfermarkt.com/michael-keane/profil/spieler/118534","Centre-Back",32,"England",40,18,3,1322
+"647","Everton FC","Premier League","England","Mason Holgate","https://www.transfermarkt.com/mason-holgate/profil/spieler/348623","Centre-Back",28,"Jamaica",3,1,0,5
+"648","Everton FC","Premier League","England","Ashley Young","https://www.transfermarkt.com/ashley-young/profil/spieler/14086","Right-Back",39,"England",40,36,1,2028
+"649","Everton FC","Premier League","England","Séamus Coleman","https://www.transfermarkt.com/seamus-coleman/profil/spieler/68390","Right-Back",36,"Ireland",19,6,0,282
+"650","Everton FC","Premier League","England","Reece Welch","https://www.transfermarkt.com/reece-welch/profil/spieler/655986","Centre-Back",21,"England",1,0,0,0
+"651","Everton FC","Premier League","England","Roman Dixon","https://www.transfermarkt.com/roman-dixon/profil/spieler/856479","Right-Back",20,"England",11,3,0,191
+"652","Everton FC","Premier League","England","Bradley Moonan","https://www.transfermarkt.com/bradley-moonan/profil/spieler/1031258","Centre-Back",19,"England",1,0,0,0
+"653","Everton FC","Premier League","England","Orel Mangala","https://www.transfermarkt.com/orel-mangala/profil/spieler/289592","Defensive Midfield",27,"Belgium",21,21,1,1440
+"654","Everton FC","Premier League","England","James Garner","https://www.transfermarkt.com/james-garner/profil/spieler/505219","Defensive Midfield",24,"England",24,23,0,1736
+"655","Everton FC","Premier League","England","Carlos Alcaraz","https://www.transfermarkt.com/carlos-alcaraz/profil/spieler/748319","Central Midfield",22,"Argentina",16,16,2,787
+"656","Everton FC","Premier League","England","Tim Iroegbunam","https://www.transfermarkt.com/tim-iroegbunam/profil/spieler/696589","Central Midfield",21,"England",25,21,0,676
+"657","Everton FC","Premier League","England","Abdoulaye Doucouré","https://www.transfermarkt.com/abdoulaye-doucoure/profil/spieler/127187","Central Midfield",32,"Mali",38,36,4,2722
+"658","Everton FC","Premier League","England","Idrissa Gueye","https://www.transfermarkt.com/idrissa-gueye/profil/spieler/126665","Defensive Midfield",35,"Senegal",40,40,0,3267
+"659","Everton FC","Premier League","England","Harrison Armstrong","https://www.transfermarkt.com/harrison-armstrong/profil/spieler/1107733","Central Midfield",18,"England",26,6,0,182
+"660","Everton FC","Premier League","England","Jenson Metcalfe","https://www.transfermarkt.com/jenson-metcalfe/profil/spieler/855890","Central Midfield",20,"England",2,0,0,0
+"661","Everton FC","Premier League","England","Luke Butterfield","https://www.transfermarkt.com/luke-butterfield/profil/spieler/652635","Defensive Midfield",21,"Scotland",2,0,0,0
+"662","Everton FC","Premier League","England","Owen Barker","https://www.transfermarkt.com/owen-barker/profil/spieler/796302","Attacking Midfield",20,"England",1,0,0,0
+"663","Everton FC","Premier League","England","Callum Bates","https://www.transfermarkt.com/callum-bates/profil/spieler/1018716","Central Midfield",19,"England",2,0,0,0
+"664","Everton FC","Premier League","England","Dwight McNeil","https://www.transfermarkt.com/dwight-mcneil/profil/spieler/584769","Left Winger",25,"England",23,23,5,1551
+"665","Everton FC","Premier League","England","Iliman Ndiaye","https://www.transfermarkt.com/iliman-ndiaye/profil/spieler/623570","Left Winger",25,"Senegal",37,37,11,2789
+"666","Everton FC","Premier League","England","Beto","https://www.transfermarkt.com/beto/profil/spieler/595809","Centre-Forward",27,"Guinea-Bissau",42,34,10,1838
+"667","Everton FC","Premier League","England","Jesper Lindstrøm","https://www.transfermarkt.com/jesper-lindstrom/profil/spieler/513245","Right Winger",25,"Denmark",32,29,0,1464
+"668","Everton FC","Premier League","England","Dominic Calvert-Lewin","https://www.transfermarkt.com/dominic-calvert-lewin/profil/spieler/306024","Centre-Forward",28,"England",27,26,3,1613
+"669","Everton FC","Premier League","England","Jack Harrison","https://www.transfermarkt.com/jack-harrison/profil/spieler/417346","Right Winger",28,"England",42,38,1,2181
+"670","Everton FC","Premier League","England","Armando Broja","https://www.transfermarkt.com/armando-broja/profil/spieler/571743","Centre-Forward",23,"Albania",14,11,0,353
+"671","Everton FC","Premier League","England","Neal Maupay","https://www.transfermarkt.com/neal-maupay/profil/spieler/217115","Centre-Forward",28,"France",2,0,0,0
+"672","Everton FC","Premier League","England","Chermiti","https://www.transfermarkt.com/chermiti/profil/spieler/670688","Centre-Forward",21,"Portugal",14,4,0,42
+"673","Everton FC","Premier League","England","Isaac Heath","https://www.transfermarkt.com/isaac-heath/profil/spieler/847579","Left Winger",20,"England",5,0,0,0
+"674","Everton FC","Premier League","England","Martin Sherif","https://www.transfermarkt.com/martin-sherif/profil/spieler/922695","Centre-Forward",18,"Netherlands",9,0,0,0
+"675","Everton FC","Premier League","England","Coby Ebere","https://www.transfermarkt.com/coby-ebere/profil/spieler/1018714","Left Winger",19,"Germany",1,0,0,0
+"676","Southampton FC","Premier League","England","Aaron Ramsdale","https://www.transfermarkt.com/aaron-ramsdale/profil/spieler/427568","Goalkeeper",27,"England",33,32,0,2880
+"677","Southampton FC","Premier League","England","Gavin Bazunu","https://www.transfermarkt.com/gavin-bazunu/profil/spieler/585550","Goalkeeper",23,"Ireland",0,0,0,0
+"678","Southampton FC","Premier League","England","Joe Lumley","https://www.transfermarkt.com/joe-lumley/profil/spieler/336367","Goalkeeper",30,"England",11,4,0,360
+"679","Southampton FC","Premier League","England","Alex McCarthy","https://www.transfermarkt.com/alex-mccarthy/profil/spieler/95976","Goalkeeper",35,"England",44,8,0,720
+"680","Southampton FC","Premier League","England","Taylor Harwood-Bellis","https://www.transfermarkt.com/taylor-harwood-bellis/profil/spieler/503977","Centre-Back",23,"England",38,38,3,3188
+"681","Southampton FC","Premier League","England","Kyle Walker-Peters","https://www.transfermarkt.com/kyle-walker-peters/profil/spieler/341051","Right-Back",28,"England",37,35,0,3102
+"682","Southampton FC","Premier League","England","Yukinari Sugawara","https://www.transfermarkt.com/yukinari-sugawara/profil/spieler/405385","Right-Back",24,"Japan",39,32,1,1676
+"683","Southampton FC","Premier League","England","Jan Bednarek","https://www.transfermarkt.com/jan-bednarek/profil/spieler/243028","Centre-Back",29,"Poland",34,34,2,2863
+"684","Southampton FC","Premier League","England","Armel Bella-Kotchap","https://www.transfermarkt.com/armel-bella-kotchap/profil/spieler/467563","Centre-Back",23,"Germany",14,5,0,355
+"685","Southampton FC","Premier League","England","Ronnie Edwards","https://www.transfermarkt.com/ronnie-edwards/profil/spieler/732165","Centre-Back",22,"England",6,2,0,98
+"686","Southampton FC","Premier League","England","Nathan Wood","https://www.transfermarkt.com/nathan-wood/profil/spieler/503990","Centre-Back",23,"England",31,15,0,1059
+"687","Southampton FC","Premier League","England","Juan Larios","https://www.transfermarkt.com/juan-larios/profil/spieler/646738","Left-Back",21,"Spain",1,1,0,1
+"688","Southampton FC","Premier League","England","Ryan Manning","https://www.transfermarkt.com/ryan-manning/profil/spieler/262300","Left-Back",28,"Ireland",35,27,0,1738
+"689","Southampton FC","Premier League","England","Welington","https://www.transfermarkt.com/welington/profil/spieler/729264","Left-Back",24,"Brazil",14,11,0,570
+"690","Southampton FC","Premier League","England","James Bree","https://www.transfermarkt.com/james-bree/profil/spieler/324223","Right-Back",27,"England",38,23,2,1584
+"691","Southampton FC","Premier League","England","Charlie Taylor","https://www.transfermarkt.com/charlie-taylor/profil/spieler/195633","Left-Back",31,"England",18,10,0,533
+"692","Southampton FC","Premier League","England","Jack Stephens","https://www.transfermarkt.com/jack-stephens/profil/spieler/163744","Centre-Back",31,"England",24,19,1,1394
+"693","Southampton FC","Premier League","England","Joachim Kayi Sanda","https://www.transfermarkt.com/joachim-kayi-sanda/profil/spieler/986298","Centre-Back",18,"France",2,2,0,12
+"694","Southampton FC","Premier League","England","Jayden Moore","https://www.transfermarkt.com/jayden-moore/profil/spieler/1122027","Centre-Back",18,"England",2,0,0,0
+"695","Southampton FC","Premier League","England","Lesley Ugochukwu","https://www.transfermarkt.com/lesley-ugochukwu/profil/spieler/711999","Defensive Midfield",21,"France",37,31,1,2028
+"696","Southampton FC","Premier League","England","Mateus Fernandes","https://www.transfermarkt.com/mateus-fernandes/profil/spieler/880245","Central Midfield",20,"Portugal",42,42,3,3365
+"697","Southampton FC","Premier League","England","Carlos Alcaraz","https://www.transfermarkt.com/carlos-alcaraz/profil/spieler/748319","Central Midfield",22,"Argentina",1,1,0,9
+"698","Southampton FC","Premier League","England","Flynn Downes","https://www.transfermarkt.com/flynn-downes/profil/spieler/506189","Defensive Midfield",26,"England",31,29,1,2256
+"699","Southampton FC","Premier League","England","Albert Grønbæk","https://www.transfermarkt.com/albert-gronbaek/profil/spieler/503866","Attacking Midfield",24,"Denmark",7,5,0,147
+"700","Southampton FC","Premier League","England","Shea Charles","https://www.transfermarkt.com/shea-charles/profil/spieler/747951","Defensive Midfield",21,"Northern Ireland",0,0,0,0
+"701","Southampton FC","Premier League","England","Joe Aribo","https://www.transfermarkt.com/joe-aribo/profil/spieler/468198","Central Midfield",28,"Nigeria",43,37,3,2460
+"702","Southampton FC","Premier League","England","Will Smallbone","https://www.transfermarkt.com/will-smallbone/profil/spieler/444211","Central Midfield",25,"Ireland",22,20,1,713
+"703","Southampton FC","Premier League","England","Adam Lallana","https://www.transfermarkt.com/adam-lallana/profil/spieler/43530","Attacking Midfield",37,"England",25,18,0,436
+"704","Southampton FC","Premier League","England","Joe O'Brien-Whitmarsh","https://www.transfermarkt.com/joe-obrien-whitmarsh/profil/spieler/741228","Central Midfield",20,"Ireland",2,1,0,1
+"705","Southampton FC","Premier League","England","Romeo Akachukwu","https://www.transfermarkt.com/romeo-akachukwu/profil/spieler/990836","Attacking Midfield",18,"Ireland",1,1,0,4
+"706","Southampton FC","Premier League","England","Tyler Dibling","https://www.transfermarkt.com/tyler-dibling/profil/spieler/866655","Right Winger",19,"England",39,38,4,2215
+"707","Southampton FC","Premier League","England","Kamaldeen Sulemana","https://www.transfermarkt.com/kamaldeen-sulemana/profil/spieler/746695","Left Winger",23,"Ghana",32,30,2,1585
+"708","Southampton FC","Premier League","England","Adam Armstrong","https://www.transfermarkt.com/adam-armstrong/profil/spieler/250426","Centre-Forward",28,"England",27,23,3,1438
+"709","Southampton FC","Premier League","England","Cameron Archer","https://www.transfermarkt.com/cameron-archer/profil/spieler/533662","Centre-Forward",23,"England",43,40,5,1690
+"710","Southampton FC","Premier League","England","Maxwel Cornet","https://www.transfermarkt.com/maxwel-cornet/profil/spieler/234781","Left Winger",28,"Cote d'Ivoire",7,4,0,187
+"711","Southampton FC","Premier League","England","Samuel Edozie","https://www.transfermarkt.com/samuel-edozie/profil/spieler/680806","Left Winger",22,"England",3,3,0,154
+"712","Southampton FC","Premier League","England","Ben Brereton Díaz","https://www.transfermarkt.com/ben-brereton-diaz/profil/spieler/426192","Centre-Forward",26,"Chile",17,13,0,503
+"713","Southampton FC","Premier League","England","Paul Onuachu","https://www.transfermarkt.com/paul-onuachu/profil/spieler/272855","Centre-Forward",31,"Nigeria",32,28,4,1108
+"714","Southampton FC","Premier League","England","Samuel Amo-Ameyaw","https://www.transfermarkt.com/samuel-amo-ameyaw/profil/spieler/933900","Right Winger",18,"England",13,4,1,125
+"715","Southampton FC","Premier League","England","Ross Stewart","https://www.transfermarkt.com/ross-stewart/profil/spieler/447995","Centre-Forward",28,"Scotland",13,13,1,395
+"716","Southampton FC","Premier League","England","Ryan Fraser","https://www.transfermarkt.com/ryan-fraser/profil/spieler/146795","Left Winger",31,"Scotland",16,10,0,406
+"717","Southampton FC","Premier League","England","Jay Robinson","https://www.transfermarkt.com/jay-robinson/profil/spieler/1045124","Left Winger",18,"England",6,4,0,135
+"718","Leicester City","Premier League","England","Mads Hermansen","https://www.transfermarkt.com/mads-hermansen/profil/spieler/400536","Goalkeeper",24,"Denmark",28,28,0,2475
+"719","Leicester City","Premier League","England","Daniel Iversen","https://www.transfermarkt.com/daniel-iversen/profil/spieler/260841","Goalkeeper",27,"Denmark",16,0,0,0
+"720","Leicester City","Premier League","England","Danny Ward","https://www.transfermarkt.com/danny-ward/profil/spieler/203026","Goalkeeper",31,"Wales",19,5,0,405
+"721","Leicester City","Premier League","England","Jakub Stolarczyk","https://www.transfermarkt.com/jakub-stolarczyk/profil/spieler/486144","Goalkeeper",24,"Poland",23,11,0,990
+"722","Leicester City","Premier League","England","Wout Faes","https://www.transfermarkt.com/wout-faes/profil/spieler/292808","Centre-Back",27,"Belgium",39,37,2,3064
+"723","Leicester City","Premier League","England","Victor Kristiansen","https://www.transfermarkt.com/victor-kristiansen/profil/spieler/564529","Left-Back",22,"Denmark",36,31,0,2579
+"724","Leicester City","Premier League","England","James Justin","https://www.transfermarkt.com/james-justin/profil/spieler/413220","Right-Back",27,"England",42,39,4,3191
+"725","Leicester City","Premier League","England","Caleb Okoli","https://www.transfermarkt.com/caleb-okoli/profil/spieler/461833","Centre-Back",23,"Italy",42,23,1,1465
+"726","Leicester City","Premier League","England","Harry Souttar","https://www.transfermarkt.com/harry-souttar/profil/spieler/298091","Centre-Back",26,"Australia",0,0,0,0
+"727","Leicester City","Premier League","England","Luke Thomas","https://www.transfermarkt.com/luke-thomas/profil/spieler/505194","Left-Back",23,"England",30,18,0,1441
+"728","Leicester City","Premier League","England","Ricardo Pereira","https://www.transfermarkt.com/ricardo-pereira/profil/spieler/215876","Right-Back",31,"Portugal",21,12,0,565
+"729","Leicester City","Premier League","England","Conor Coady","https://www.transfermarkt.com/conor-coady/profil/spieler/128901","Centre-Back",32,"England",40,26,2,2002
+"730","Leicester City","Premier League","England","Jannik Vestergaard","https://www.transfermarkt.com/jannik-vestergaard/profil/spieler/99331","Centre-Back",32,"Denmark",21,19,0,1414
+"731","Leicester City","Premier League","England","Woyo Coulibaly","https://www.transfermarkt.com/woyo-coulibaly/profil/spieler/592975","Right-Back",26,"Mali",11,5,0,139
+"732","Leicester City","Premier League","England","Ben Nelson","https://www.transfermarkt.com/ben-nelson/profil/spieler/714458","Centre-Back",21,"England",2,0,0,0
+"733","Leicester City","Premier League","England","Tom Wilson-Brown","https://www.transfermarkt.com/tom-wilson-brown/profil/spieler/867710","Centre-Back",20,"England",1,0,0,0
+"734","Leicester City","Premier League","England","Olabade Aluko","https://www.transfermarkt.com/olabade-aluko/profil/spieler/1135364","Right-Back",18,"England",2,1,0,1
+"735","Leicester City","Premier League","England","Bilal El Khannouss","https://www.transfermarkt.com/bilal-el-khannouss/profil/spieler/654982","Attacking Midfield",21,"Morocco",39,36,3,2430
+"736","Leicester City","Premier League","England","Facundo Buonanotte","https://www.transfermarkt.com/facundo-buonanotte/profil/spieler/983989","Attacking Midfield",20,"Argentina",38,35,6,1701
+"737","Leicester City","Premier League","England","Wilfred Ndidi","https://www.transfermarkt.com/wilfred-ndidi/profil/spieler/274839","Defensive Midfield",28,"Nigeria",31,30,1,2467
+"738","Leicester City","Premier League","England","Boubakary Soumaré","https://www.transfermarkt.com/boubakary-soumare/profil/spieler/344605","Defensive Midfield",26,"France",39,35,0,2530
+"739","Leicester City","Premier League","England","Oliver Skipp","https://www.transfermarkt.com/oliver-skipp/profil/spieler/406638","Defensive Midfield",24,"England",40,28,0,1315
+"740","Leicester City","Premier League","England","Harry Winks","https://www.transfermarkt.com/harry-winks/profil/spieler/249126","Defensive Midfield",29,"England",29,25,1,1722
+"741","Leicester City","Premier League","England","Hamza Choudhury","https://www.transfermarkt.com/hamza-choudhury/profil/spieler/341501","Defensive Midfield",27,"Bangladesh",18,6,0,237
+"742","Leicester City","Premier League","England","Michael Golding","https://www.transfermarkt.com/michael-golding/profil/spieler/936842","Central Midfield",19,"England",3,1,0,1
+"743","Leicester City","Premier League","England","Will Alves","https://www.transfermarkt.com/will-alves/profil/spieler/867711","Attacking Midfield",20,"England",6,3,0,37
+"744","Leicester City","Premier League","England","Sammy Braybrooke","https://www.transfermarkt.com/sammy-braybrooke/profil/spieler/840640","Defensive Midfield",21,"England",1,0,0,0
+"745","Leicester City","Premier League","England","Henry Cartwright","https://www.transfermarkt.com/henry-cartwright/profil/spieler/866651","Central Midfield",20,"England",1,0,0,0
+"746","Leicester City","Premier League","England","Issahaku Fatawu","https://www.transfermarkt.com/issahaku-fatawu/profil/spieler/864121","Right Winger",21,"Ghana",13,13,0,674
+"747","Leicester City","Premier League","England","Tom Cannon","https://www.transfermarkt.com/tom-cannon/profil/spieler/669366","Centre-Forward",22,"Ireland",1,0,0,0
+"748","Leicester City","Premier League","England","Stephy Mavididi","https://www.transfermarkt.com/stephy-mavididi/profil/spieler/340328","Left Winger",27,"England",37,33,6,1791
+"749","Leicester City","Premier League","England","Patson Daka","https://www.transfermarkt.com/patson-daka/profil/spieler/365172","Centre-Forward",26,"Zambia",29,25,1,832
+"750","Leicester City","Premier League","England","Odsonne Edouard","https://www.transfermarkt.com/odsonne-edouard/profil/spieler/344152","Centre-Forward",27,"France",9,6,0,113
+"751","Leicester City","Premier League","England","Bobby De Cordova-Reid","https://www.transfermarkt.com/bobby-de-cordova-reid/profil/spieler/186186","Right Winger",32,"Jamaica",37,27,2,975
+"752","Leicester City","Premier League","England","Jordan Ayew","https://www.transfermarkt.com/jordan-ayew/profil/spieler/108354","Right Winger",33,"Ghana",41,35,6,1929
+"753","Leicester City","Premier League","England","Kasey McAteer","https://www.transfermarkt.com/kasey-mcateer/profil/spieler/621193","Right Winger",23,"Ireland",25,23,1,1059
+"754","Leicester City","Premier League","England","Jamie Vardy","https://www.transfermarkt.com/jamie-vardy/profil/spieler/197838","Centre-Forward",38,"England",36,36,10,2899
+"755","Leicester City","Premier League","England","Jake Evans","https://www.transfermarkt.com/jake-evans/profil/spieler/1171764","Right Winger",16,"England",5,4,0,21
+"756","Leicester City","Premier League","England","Chris Popov","https://www.transfermarkt.com/chris-popov/profil/spieler/667508","Centre-Forward",20,"Wales",1,1,0,17
+"757","Leicester City","Premier League","England","Jeremy Monga","https://www.transfermarkt.com/jeremy-monga/profil/spieler/1245948","Left Winger",15,"England",8,7,0,105
+"758","Ipswich Town","Premier League","England","Arijanet Muric","https://www.transfermarkt.com/arijanet-muric/profil/spieler/371021","Goalkeeper",26,"Kosovo",28,19,0,1701
+"759","Ipswich Town","Premier League","England","Christian Walton","https://www.transfermarkt.com/christian-walton/profil/spieler/208379","Goalkeeper",29,"England",35,8,0,720
+"760","Ipswich Town","Premier League","England","Alex Palmer","https://www.transfermarkt.com/alex-palmer/profil/spieler/245625","Goalkeeper",28,"England",15,15,0,1380
+"761","Ipswich Town","Premier League","England","Cieran Slicker","https://www.transfermarkt.com/cieran-slicker/profil/spieler/621997","Goalkeeper",22,"Scotland",7,1,0,9
+"762","Ipswich Town","Premier League","England","Leif Davis","https://www.transfermarkt.com/leif-davis/profil/spieler/596446","Left-Back",25,"England",36,33,1,2746
+"763","Ipswich Town","Premier League","England","Jacob Greaves","https://www.transfermarkt.com/jacob-greaves/profil/spieler/693095","Centre-Back",24,"England",28,26,1,2280
+"764","Ipswich Town","Premier League","England","Dara O'Shea","https://www.transfermarkt.com/dara-oshea/profil/spieler/401320","Centre-Back",26,"Ireland",39,37,0,3288
+"765","Ipswich Town","Premier League","England","Ben Johnson","https://www.transfermarkt.com/ben-johnson/profil/spieler/468002","Right-Back",25,"England",36,27,1,1615
+"766","Ipswich Town","Premier League","England","Ben Godfrey","https://www.transfermarkt.com/ben-godfrey/profil/spieler/343475","Centre-Back",27,"England",13,5,0,322
+"767","Ipswich Town","Premier League","England","Axel Tuanzebe","https://www.transfermarkt.com/axel-tuanzebe/profil/spieler/342046","Right-Back",27,"DR Congo",25,23,0,1762
+"768","Ipswich Town","Premier League","England","Harry Clarke","https://www.transfermarkt.com/harry-clarke/profil/spieler/528892","Right-Back",24,"England",13,8,0,395
+"769","Ipswich Town","Premier League","England","Luke Woolfenden","https://www.transfermarkt.com/luke-woolfenden/profil/spieler/527425","Centre-Back",26,"England",32,18,0,1487
+"770","Ipswich Town","Premier League","England","Cameron Burgess","https://www.transfermarkt.com/cameron-burgess/profil/spieler/255788","Centre-Back",29,"Australia",27,22,0,1855
+"771","Ipswich Town","Premier League","England","George Edmundson","https://www.transfermarkt.com/george-edmundson/profil/spieler/385848","Centre-Back",27,"England",1,1,0,1
+"772","Ipswich Town","Premier League","England","Conor Townsend","https://www.transfermarkt.com/conor-townsend/profil/spieler/146509","Left-Back",32,"England",36,10,0,725
+"773","Ipswich Town","Premier League","England","Somto Boniface","https://www.transfermarkt.com/somto-boniface/profil/spieler/922472","Left-Back",19,"England",5,0,0,0
+"774","Ipswich Town","Premier League","England","Julio Enciso","https://www.transfermarkt.com/julio-enciso/profil/spieler/660867","Attacking Midfield",21,"Paraguay",13,13,2,877
+"775","Ipswich Town","Premier League","England","Omari Hutchinson","https://www.transfermarkt.com/omari-hutchinson/profil/spieler/741238","Attacking Midfield",21,"England",33,32,3,2605
+"776","Ipswich Town","Premier League","England","Kalvin Phillips","https://www.transfermarkt.com/kalvin-phillips/profil/spieler/351749","Defensive Midfield",29,"England",28,22,1,1464
+"777","Ipswich Town","Premier League","England","Jens Cajuste","https://www.transfermarkt.com/jens-cajuste/profil/spieler/468066","Defensive Midfield",25,"Sweden",37,33,1,2108
+"778","Ipswich Town","Premier League","England","Sammie Szmodics","https://www.transfermarkt.com/sammie-szmodics/profil/spieler/292139","Attacking Midfield",29,"Ireland",23,21,4,1037
+"779","Ipswich Town","Premier League","England","Jack Taylor","https://www.transfermarkt.com/jack-taylor/profil/spieler/458178","Central Midfield",26,"Ireland",37,36,2,1134
+"780","Ipswich Town","Premier League","England","Marcus Harness","https://www.transfermarkt.com/marcus-harness/profil/spieler/288323","Attacking Midfield",29,"Ireland",3,3,0,88
+"781","Ipswich Town","Premier League","England","Sam Morsy","https://www.transfermarkt.com/sam-morsy/profil/spieler/123551","Central Midfield",33,"Egypt",38,34,1,2877
+"782","Ipswich Town","Premier League","England","Massimo Luongo","https://www.transfermarkt.com/massimo-luongo/profil/spieler/181687","Central Midfield",32,"Australia",26,15,0,399
+"783","Ipswich Town","Premier League","England","Liam Delap","https://www.transfermarkt.com/liam-delap/profil/spieler/610849","Centre-Forward",22,"England",41,40,12,2670
+"784","Ipswich Town","Premier League","England","Jaden Philogene","https://www.transfermarkt.com/jaden-philogene/profil/spieler/665390","Left Winger",23,"England",13,11,3,553
+"785","Ipswich Town","Premier League","England","Jack Clarke","https://www.transfermarkt.com/jack-clarke/profil/spieler/559794","Left Winger",24,"England",39,36,3,1481
+"786","Ipswich Town","Premier League","England","Chiedozie Ogbene","https://www.transfermarkt.com/chiedozie-ogbene/profil/spieler/392591","Right Winger",28,"Ireland",8,6,0,284
+"787","Ipswich Town","Premier League","England","Conor Chaplin","https://www.transfermarkt.com/conor-chaplin/profil/spieler/349503","Second Striker",28,"England",29,23,2,944
+"788","Ipswich Town","Premier League","England","Nathan Broadhead","https://www.transfermarkt.com/nathan-broadhead/profil/spieler/344009","Left Winger",27,"Wales",28,21,2,836
+"789","Ipswich Town","Premier League","England","George Hirst","https://www.transfermarkt.com/george-hirst/profil/spieler/420808","Centre-Forward",26,"Scotland",29,29,5,833
+"790","Ipswich Town","Premier League","England","Ali Al-Hamadi","https://www.transfermarkt.com/ali-al-hamadi/profil/spieler/610581","Centre-Forward",23,"Iraq",15,13,1,276
+"791","Ipswich Town","Premier League","England","Wes Burns","https://www.transfermarkt.com/wes-burns/profil/spieler/255731","Right Winger",30,"Wales",22,19,0,979
+"792","Ipswich Town","Premier League","England","Tom Taylor","https://www.transfermarkt.com/tom-taylor/profil/spieler/1099929","Centre-Forward",20,"England",2,0,0,0
